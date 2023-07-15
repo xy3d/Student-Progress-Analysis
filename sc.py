@@ -1,13 +1,13 @@
 import pandas as pd
 
-# Load the dataset from the CSV file
-dataset = pd.read_csv('grades.csv')
+# Load the df from the CSV file
+df = pd.read_csv('grades.csv')
 
 # Calculate the mean for each subject
-mean_english = dataset['English'].mean()
-mean_math = dataset['Math'].mean()
-mean_science = dataset['Science'].mean()
-mean_social_science = dataset['Social Science'].mean()
+mean_english = df['English'].mean()
+mean_math = df['Math'].mean()
+mean_science = df['Science'].mean()
+mean_social_science = df['Social Science'].mean()
 
 # Display the results
 print(f"Mean marks for English: {mean_english:.2f}")

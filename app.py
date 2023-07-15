@@ -1,5 +1,5 @@
 import pandas as pd
-from flask import Flask, jsonify, request, render_template
+from flask import Flask, render_template, jsonify
 
 # Load the dataset from the CSV file
 dataset = pd.read_csv('grades.csv')
@@ -22,9 +22,18 @@ def get_weaknesses_by_subject(subject):
     weaknesses = identify_weaknesses(subject)
     return weaknesses.to_json(orient='records')
 
-# Route to serve the HTML chart page
-@app.route('/')
-def chart():
+# API endpoint to get weaknesses count for each subject
+@app.route('/api/weakness_count', methods=['GET'])
+def get_weakness_count():
+    weaknesses_count = {}
+    subjects = ['English', 'Math', 'Science', 'Social Science']
+    for subject in subjects:
+        weaknesses_count[subject] = identify_weaknesses(subject).shape[0]
+    return jsonify(weaknesses_count)
+
+# Route to serve the HTML dashboard page
+@app.route('/dashboard')
+def dashboard():
     return render_template('index.html')
 
 if __name__ == '__main__':

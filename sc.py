@@ -7,7 +7,7 @@ df = pd.read_csv('grades.csv')
 mean_english = df['English'].mean()
 mean_math = df['Math'].mean()
 mean_science = df['Science'].mean()
-mean_social_science = df['Social Science'].mean()
+mean_social_science = df['Social_ Science'].mean()
 
 # Display the results
 print(f"Mean marks for English: {mean_english:.2f}")

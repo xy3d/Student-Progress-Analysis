@@ -1,0 +1,1001 @@
+Rolls,Student_Name,English,Math,Science,Social_Science,Total_Marks,Grades,Attendance,Study_Hours,Extracurricular,Parent_Education,Socioeconomic_Status,Previous_Exam_Scores,Learning_Style,Study_Resources
+100,Kimberly Clements,82,62,73,95,312,B,79,5,0,Master,Low,"[31, 73, 93, 68]",Visual,0
+101,Elizabeth Duncan,85,83,74,55,297,B,97,3,1,Doctorate,Middle,"[34, 76, 59, 35]",Auditory,1
+102,Joseph Sawyer,50,73,43,91,257,B,99,2,0,Bachelor,High,"[30, 79, 60, 40]",Kinesthetic,1
+103,Amy Jones,86,82,61,73,302,B,96,5,1,High School,High,"[84, 70, 80, 78]",Kinesthetic,0
+104,Paul Richardson,86,61,75,72,294,B,84,3,1,Master,Middle,"[32, 73, 38, 86]",Auditory,0
+105,Justin Potter,75,57,59,73,264,B,95,4,0,Doctorate,Low,"[33, 55, 90, 60]",Kinesthetic,1
+106,Heidi Garcia,63,66,56,76,261,B,84,1,0,Master,Middle,"[88, 34, 33, 43]",Visual,1
+107,Melissa Carter,71,87,49,72,279,B,84,4,0,Doctorate,Low,"[91, 37, 90, 41]",Auditory,1
+108,Christopher Guzman,95,62,68,88,313,B,88,4,1,Bachelor,High,"[36, 93, 70, 77]",Auditory,1
+109,Stephanie Norris,76,58,74,73,281,B,75,1,0,Master,Middle,"[61, 53, 85, 70]",Kinesthetic,0
+110,Kristy Wu,82,95,44,90,311,B,97,2,1,High School,Middle,"[80, 86, 79, 88]",Auditory,1
+111,Sheri Vazquez,74,76,85,71,306,B,83,2,1,Doctorate,Middle,"[35, 62, 40, 75]",Visual,0
+112,Scott Williams,75,95,74,80,324,A,76,4,0,Master,High,"[39, 90, 61, 88]",Visual,1
+113,Richard White,87,81,65,77,310,B,72,3,0,Bachelor,Low,"[56, 47, 85, 89]",Auditory,0
+114,Anthony Mcdonald,88,90,74,68,320,A,75,2,1,Bachelor,Low,"[89, 94, 76, 54]",Auditory,1
+115,Lauren Martin,68,70,43,79,260,B,84,3,1,High School,Low,"[40, 51, 83, 55]",Visual,1
+116,Sandra Valencia,70,72,65,79,286,B,77,1,0,Master,Low,"[93, 53, 72, 39]",Visual,1
+117,Lisa Payne,85,50,48,95,278,B,96,2,1,Master,Middle,"[34, 78, 38, 56]",Kinesthetic,0
+118,David Bailey,77,70,47,61,255,B,100,1,0,Master,High,"[93, 69, 80, 63]",Visual,0
+119,Tony Shelton,78,76,78,77,309,B,71,5,1,Master,Middle,"[86, 48, 47, 33]",Kinesthetic,0
+120,Denise Ward,91,47,55,65,258,B,72,1,1,Bachelor,Middle,"[46, 81, 60, 85]",Visual,1
+121,John Trevino,67,72,69,86,294,B,73,3,0,Doctorate,Low,"[35, 95, 38, 35]",Kinesthetic,0
+122,Haley Hughes,62,52,86,76,276,B,96,3,1,Bachelor,High,"[80, 72, 85, 88]",Auditory,1
+123,Jason Cobb,95,58,84,87,324,A,99,2,1,High School,Low,"[49, 36, 84, 40]",Auditory,0
+124,Victor Gonzalez,73,59,78,71,281,B,79,2,0,Doctorate,High,"[61, 58, 40, 70]",Auditory,0
+125,Sean Williams,80,82,49,83,294,B,84,3,0,Bachelor,High,"[75, 78, 45, 57]",Kinesthetic,1
+126,Jonathon Short,88,72,68,61,289,B,79,1,1,Doctorate,High,"[61, 30, 75, 94]",Visual,1
+127,Rachel Rodriguez,89,80,68,77,314,B,80,2,0,High School,Low,"[35, 88, 92, 34]",Visual,1
+128,Alicia Hoover,73,60,37,70,240,B,85,4,1,Master,High,"[76, 93, 40, 52]",Visual,1
+129,Christine Gutierrez,91,68,83,90,332,A,83,4,0,High School,Low,"[73, 31, 68, 52]",Auditory,1
+130,Alex Dickerson,78,90,76,75,319,B,72,5,1,High School,High,"[51, 69, 54, 39]",Kinesthetic,0
+131,Robert Johns,89,53,95,85,322,A,75,3,0,High School,Middle,"[80, 32, 61, 67]",Auditory,0
+132,Alicia Gonzalez,95,56,73,57,281,B,84,2,1,High School,Middle,"[60, 74, 55, 87]",Kinesthetic,0
+133,Kristy Simmons,89,73,60,59,281,B,73,5,1,High School,Middle,"[39, 73, 52, 68]",Auditory,0
+134,Tricia Mason,70,70,67,80,287,B,87,4,1,Doctorate,Low,"[48, 70, 83, 77]",Visual,0
+135,Terry Wood,71,61,88,78,298,B,97,1,1,Master,High,"[93, 48, 47, 35]",Kinesthetic,1
+136,Maria Sims,95,64,81,88,328,A,82,1,1,Doctorate,Low,"[48, 40, 54, 88]",Kinesthetic,1
+137,Mark Bowen,86,85,65,94,330,A,74,2,0,Doctorate,High,"[41, 44, 59, 90]",Kinesthetic,1
+138,Ellen Wall,82,70,42,95,289,B,87,3,1,Doctorate,Middle,"[76, 43, 92, 81]",Visual,1
+139,Anthony Johnson,70,72,32,92,266,B,78,4,1,Bachelor,Middle,"[56, 64, 61, 52]",Visual,0
+140,Rhonda Hernandez,70,68,95,63,296,B,86,5,1,Master,High,"[94, 80, 37, 34]",Visual,1
+141,Leah Haynes,67,68,88,76,299,B,73,5,0,Master,High,"[92, 89, 31, 52]",Visual,0
+142,Donna Obrien,74,87,76,81,318,B,75,1,0,Bachelor,Low,"[85, 89, 52, 59]",Visual,1
+143,Anthony Moody,76,51,56,86,269,B,87,5,0,High School,High,"[51, 30, 47, 88]",Visual,0
+144,Robert Rodriguez,90,69,66,69,294,B,81,3,0,High School,Low,"[51, 69, 42, 94]",Kinesthetic,0
+145,Jessica Bush,57,61,76,62,256,B,90,2,0,High School,High,"[57, 38, 70, 90]",Kinesthetic,1
+146,Joan Hatfield,78,42,81,54,255,B,89,1,1,Doctorate,High,"[46, 79, 69, 39]",Auditory,1
+147,Tonya Rodriguez,71,57,51,93,272,B,81,3,0,Doctorate,High,"[60, 65, 37, 36]",Visual,1
+148,Haley Mueller,95,39,95,84,313,B,81,5,0,Bachelor,Middle,"[39, 49, 63, 50]",Auditory,0
+149,Lisa Hanna,82,49,54,87,272,B,78,3,0,Doctorate,High,"[48, 50, 76, 88]",Auditory,0
+150,Terri Davis,85,85,50,76,296,B,74,3,1,Doctorate,Middle,"[50, 60, 68, 41]",Kinesthetic,1
+151,Shane Chandler,95,78,57,84,314,B,80,5,0,High School,Low,"[75, 88, 83, 42]",Kinesthetic,0
+152,Jack Simon,71,40,67,76,254,B,85,4,1,Master,Middle,"[67, 93, 33, 44]",Visual,1
+153,Benjamin Young,82,88,82,70,322,A,87,1,1,High School,Middle,"[74, 81, 63, 75]",Visual,1
+154,Denise Perez,85,95,68,54,302,B,74,4,1,High School,Low,"[47, 80, 82, 73]",Visual,0
+155,William Walker,59,82,93,75,309,B,92,3,1,Bachelor,Middle,"[73, 36, 49, 67]",Visual,1
+156,Tyrone Leon,81,68,72,85,306,B,86,3,0,Doctorate,Middle,"[71, 59, 52, 84]",Visual,1
+157,Joshua Gonzalez,79,79,76,81,315,B,99,1,1,Master,Low,"[90, 81, 73, 63]",Auditory,1
+158,Christopher Ochoa,80,62,95,55,292,B,82,5,0,High School,Low,"[56, 59, 85, 89]",Kinesthetic,1
+159,Adam Wagner,79,80,46,77,282,B,94,1,1,Bachelor,Middle,"[33, 30, 44, 94]",Kinesthetic,0
+160,Ronald Stephens,88,77,57,59,281,B,93,5,1,Bachelor,Middle,"[91, 38, 88, 46]",Auditory,0
+161,Debbie Norton,95,43,67,80,285,B,94,4,0,Master,Middle,"[51, 55, 91, 36]",Visual,1
+162,Ms. Krista Dominguez,86,91,95,80,352,A,94,1,1,Master,Low,"[82, 90, 68, 95]",Visual,1
+163,Mrs. Carolyn Silva,86,94,82,82,344,A,94,5,0,High School,Middle,"[57, 58, 41, 95]",Kinesthetic,1
+164,Ronald Johnson,94,82,79,74,329,A,77,5,1,Doctorate,Low,"[59, 66, 43, 42]",Visual,1
+165,Michael Perkins,83,48,95,76,302,B,90,4,1,Bachelor,High,"[32, 54, 78, 35]",Kinesthetic,0
+166,Nicole Kim,84,59,95,80,318,B,74,4,1,High School,Low,"[84, 95, 48, 47]",Visual,1
+167,Matthew Woods,68,94,68,57,287,B,82,2,1,Master,High,"[61, 48, 33, 48]",Auditory,1
+168,Tammy Rodriguez,86,63,60,61,270,B,79,4,1,Master,Low,"[71, 31, 93, 83]",Auditory,1
+169,Brittney Hunter,73,56,56,71,256,B,71,3,0,Bachelor,Middle,"[80, 33, 89, 51]",Auditory,0
+170,Todd Jones,88,86,94,70,338,A,84,4,0,Master,Low,"[75, 94, 40, 93]",Auditory,0
+171,Kelly Garcia,74,83,68,75,300,B,77,4,0,Master,High,"[35, 40, 85, 42]",Visual,1
+172,Joseph Foley,88,67,67,76,298,B,73,2,0,Bachelor,High,"[62, 41, 53, 33]",Auditory,0
+173,Nicole Henderson,74,89,49,77,289,B,70,1,0,Master,Low,"[67, 83, 83, 58]",Kinesthetic,0
+174,Thomas Scott,73,73,74,70,290,B,86,3,0,Doctorate,Low,"[86, 79, 70, 36]",Auditory,0
+175,Jessica Snyder,80,82,88,68,318,B,77,3,1,Master,Low,"[69, 87, 77, 53]",Kinesthetic,0
+176,Patrick Rivas,75,58,69,71,273,B,88,5,0,Bachelor,Low,"[69, 30, 56, 93]",Visual,1
+177,Darren Erickson,84,59,95,71,309,B,91,5,0,Bachelor,Low,"[45, 39, 60, 87]",Kinesthetic,0
+178,Emily Lucas,72,70,64,88,294,B,92,2,1,Master,High,"[65, 30, 79, 48]",Visual,0
+179,Jasmin Lopez,74,95,79,76,324,A,71,4,1,High School,High,"[49, 76, 65, 42]",Auditory,0
+180,Brian Fields,76,89,59,59,283,B,85,4,1,Master,High,"[94, 63, 92, 73]",Visual,0
+181,Rebecca Martinez,95,76,49,67,287,B,88,2,1,Doctorate,High,"[79, 44, 38, 95]",Kinesthetic,1
+182,Michael Taylor,91,91,71,75,328,A,97,5,0,High School,Middle,"[64, 31, 63, 61]",Auditory,0
+183,Michael Thompson,79,78,67,68,292,B,90,2,1,Master,Low,"[48, 45, 80, 51]",Kinesthetic,0
+184,James Wagner,70,95,71,64,300,B,88,2,1,High School,Low,"[88, 77, 82, 54]",Kinesthetic,1
+185,Megan Donaldson,84,55,40,83,262,B,75,4,0,Doctorate,Low,"[33, 54, 54, 57]",Kinesthetic,1
+186,Thomas Beck,75,95,88,87,345,A,78,2,0,Master,High,"[47, 34, 37, 60]",Visual,1
+187,Sandra Sanchez,83,71,68,73,295,B,84,1,0,Doctorate,High,"[56, 88, 73, 93]",Kinesthetic,0
+188,Anthony Johnson,84,74,79,64,301,B,92,1,1,Bachelor,Low,"[85, 44, 49, 85]",Auditory,1
+189,Christopher Myers,76,62,56,64,258,B,87,3,0,Bachelor,Low,"[35, 35, 41, 87]",Kinesthetic,1
+190,Danielle Hernandez,91,95,64,70,320,A,73,2,1,High School,Low,"[84, 89, 52, 42]",Kinesthetic,1
+191,Vickie Rodriguez,65,69,80,45,259,B,73,3,0,Master,High,"[50, 90, 68, 53]",Auditory,0
+192,Ruben Harper,88,73,80,66,307,B,95,5,0,Doctorate,Middle,"[57, 57, 41, 80]",Kinesthetic,0
+193,Daniel Grant,67,69,75,83,294,B,89,5,0,High School,Middle,"[61, 51, 65, 53]",Auditory,1
+194,Gina Walls,95,63,75,65,298,B,94,3,1,Doctorate,Middle,"[61, 78, 66, 48]",Kinesthetic,1
+195,Jamie Hull,55,60,39,56,210,C,88,3,1,High School,Low,"[44, 53, 71, 92]",Auditory,0
+196,Frank Young,74,72,49,78,273,B,75,1,1,High School,Low,"[88, 93, 94, 43]",Visual,0
+197,Matthew Taylor,78,95,76,68,317,B,81,1,0,High School,High,"[79, 85, 56, 81]",Kinesthetic,0
+198,Nicholas Kelly,77,68,95,71,311,B,95,1,0,Doctorate,Middle,"[49, 32, 33, 58]",Kinesthetic,0
+199,Kevin Mcfarland,88,82,95,73,338,A,79,3,0,Bachelor,High,"[74, 92, 35, 44]",Auditory,1
+200,Maria Tucker,87,66,74,70,297,B,79,4,1,Doctorate,Middle,"[45, 79, 74, 65]",Visual,1
+201,Sergio Young,74,95,56,85,310,B,76,1,1,High School,Middle,"[95, 72, 68, 64]",Visual,0
+202,Julie White,78,74,36,81,269,B,81,1,0,Bachelor,Middle,"[81, 56, 32, 71]",Auditory,0
+203,Gary Alvarez,79,63,52,63,257,B,82,2,1,High School,High,"[54, 76, 53, 60]",Visual,1
+204,Makayla Strong,79,77,83,60,299,B,90,5,0,Doctorate,Low,"[75, 34, 32, 47]",Visual,0
+205,Javier Holland,73,80,73,66,292,B,84,2,1,High School,High,"[50, 46, 48, 78]",Auditory,0
+206,Richard Roberts,78,81,83,54,296,B,92,5,1,High School,Low,"[36, 87, 89, 67]",Visual,0
+207,Adam Montgomery,95,46,38,60,239,C,93,3,1,Doctorate,Middle,"[60, 65, 71, 85]",Kinesthetic,0
+208,Dr. Cory Maldonado,83,95,85,75,338,A,92,1,0,Master,Middle,"[53, 56, 46, 38]",Visual,1
+209,Matthew Lane,76,81,93,83,333,A,90,4,0,Bachelor,Middle,"[50, 49, 62, 40]",Kinesthetic,1
+210,Wanda Harris,54,76,60,52,242,B,79,5,0,Bachelor,Low,"[47, 30, 57, 91]",Visual,1
+211,Miranda Morris,93,95,67,95,350,A,71,1,0,High School,High,"[41, 85, 92, 55]",Kinesthetic,0
+212,Andrea Poole,85,95,82,62,324,A,72,5,1,High School,High,"[82, 79, 39, 53]",Auditory,0
+213,Elizabeth Perkins,76,85,55,78,294,B,85,2,0,Doctorate,Low,"[84, 61, 60, 34]",Auditory,1
+214,Brian Russell,86,95,54,78,313,B,77,3,1,Bachelor,High,"[31, 72, 66, 95]",Visual,0
+215,Adam Williamson,91,78,65,88,322,A,70,1,1,Bachelor,Low,"[65, 55, 35, 46]",Auditory,0
+216,Eric Collins,85,66,91,78,320,A,72,3,1,Bachelor,Low,"[77, 51, 44, 75]",Visual,1
+217,Lindsay Mcneil,83,60,76,51,270,B,83,5,1,High School,High,"[36, 93, 86, 57]",Auditory,0
+218,Robert Carter,71,60,59,82,272,B,84,1,0,Bachelor,High,"[63, 41, 31, 43]",Visual,1
+219,Troy Soto,88,72,12,62,234,C,70,4,1,High School,High,"[65, 81, 86, 46]",Visual,1
+220,Martin Roach,88,60,52,85,285,B,77,3,0,Doctorate,High,"[88, 94, 86, 40]",Kinesthetic,1
+221,Richard Holmes,87,67,92,93,339,A,75,4,0,High School,Middle,"[62, 49, 45, 59]",Auditory,0
+222,Lindsey Alvarado,90,84,52,78,304,B,83,2,0,Bachelor,Middle,"[67, 42, 79, 75]",Kinesthetic,0
+223,Carla Gill,88,95,94,66,343,A,84,5,0,High School,Low,"[87, 33, 53, 38]",Visual,1
+224,Parker Stewart,88,67,28,77,260,B,92,4,0,Bachelor,Low,"[53, 48, 33, 95]",Visual,1
+225,Amy Williams,95,66,63,83,307,B,97,4,0,Master,Middle,"[37, 57, 46, 72]",Visual,1
+226,Sarah Bell,73,61,89,83,306,B,92,2,0,Master,Low,"[52, 36, 94, 61]",Visual,0
+227,Gloria Cochran,87,63,59,70,279,B,82,2,0,Master,Low,"[77, 76, 75, 43]",Auditory,1
+228,Jonathan Owens,81,67,37,64,249,B,92,2,0,High School,High,"[76, 60, 83, 79]",Kinesthetic,0
+229,Taylor Hunter,67,72,63,76,278,B,86,1,0,Doctorate,Low,"[38, 62, 93, 33]",Auditory,1
+230,Eddie Gonzalez,80,94,56,59,289,B,76,1,0,Bachelor,Middle,"[59, 79, 90, 85]",Auditory,0
+231,Charles Banks,67,93,71,58,289,B,89,2,1,Master,Low,"[58, 36, 51, 71]",Kinesthetic,0
+232,Jeffrey Miller,74,45,61,55,235,C,90,5,0,High School,Middle,"[30, 56, 79, 78]",Auditory,1
+233,Lynn Davis,86,65,95,81,327,A,100,4,0,Bachelor,Middle,"[32, 31, 53, 95]",Kinesthetic,1
+234,Caleb Mueller,68,73,30,76,247,B,82,2,0,Master,Middle,"[83, 46, 78, 43]",Auditory,1
+235,Gina Anderson,76,83,64,80,303,B,81,1,1,Doctorate,Low,"[82, 84, 45, 36]",Visual,1
+236,Timothy Swanson,93,88,50,95,326,A,92,2,1,Bachelor,Middle,"[37, 46, 95, 35]",Auditory,0
+237,Michael Ward,70,51,76,95,292,B,81,5,1,Bachelor,High,"[93, 56, 36, 59]",Auditory,1
+238,Stacey Christensen,95,75,84,69,323,A,73,2,1,High School,High,"[53, 68, 77, 69]",Auditory,0
+239,Alejandra Escobar,72,61,20,71,224,C,85,1,0,Bachelor,High,"[69, 82, 92, 75]",Kinesthetic,1
+240,Antonio Nielsen,87,94,74,50,305,B,81,5,0,Doctorate,Middle,"[57, 74, 71, 87]",Auditory,0
+241,Matthew Brown,78,95,80,70,323,A,87,4,0,Bachelor,High,"[67, 88, 60, 81]",Visual,0
+242,Megan Burnett,73,58,22,89,242,B,87,5,1,Bachelor,Middle,"[80, 58, 64, 46]",Kinesthetic,0
+243,William Herrera,91,63,57,93,304,B,94,4,0,High School,High,"[56, 89, 51, 65]",Auditory,1
+244,Jason White,89,57,95,84,325,A,78,4,1,Master,Middle,"[62, 55, 71, 79]",Kinesthetic,1
+245,Laura Shannon,65,57,55,71,248,B,70,2,1,Doctorate,Middle,"[78, 88, 71, 44]",Kinesthetic,0
+246,Keith Hill,76,87,56,94,313,B,91,4,0,Doctorate,High,"[59, 75, 55, 77]",Visual,0
+247,Stephen Dyer,90,91,60,77,318,B,86,2,0,Bachelor,Low,"[90, 32, 65, 73]",Auditory,0
+248,Laura Huynh,64,92,61,77,294,B,97,4,0,Bachelor,Low,"[55, 32, 75, 69]",Kinesthetic,0
+249,Brian Vazquez,87,69,58,81,295,B,71,3,1,Bachelor,Middle,"[83, 68, 34, 46]",Kinesthetic,1
+250,Jennifer Hamilton,70,83,36,86,275,B,98,3,0,Bachelor,Low,"[34, 76, 56, 90]",Visual,0
+251,Cassandra Pearson,95,75,79,73,322,A,88,4,1,Doctorate,High,"[33, 40, 68, 87]",Visual,1
+252,Julie Nelson,80,55,95,80,310,B,98,3,1,Doctorate,Middle,"[59, 39, 86, 52]",Auditory,0
+253,John Jenkins,70,79,95,36,280,B,89,3,1,Master,High,"[93, 95, 36, 36]",Visual,0
+254,Jason Henderson,78,61,61,57,257,B,86,4,0,High School,High,"[93, 58, 74, 44]",Visual,0
+255,Sharon Hughes,84,90,12,72,258,B,72,2,1,Doctorate,Middle,"[55, 36, 88, 95]",Auditory,0
+256,Jose Bennett,87,71,68,66,292,B,84,5,0,Master,Low,"[46, 58, 46, 80]",Auditory,1
+257,Katie Harrison,74,63,75,90,302,B,92,3,0,Doctorate,High,"[76, 60, 80, 62]",Kinesthetic,1
+258,Jill Flores,84,72,74,48,278,B,94,1,1,Master,Low,"[64, 95, 39, 74]",Auditory,0
+259,Shelby Davis,73,86,53,69,281,B,76,3,1,Bachelor,Low,"[95, 78, 92, 31]",Auditory,0
+260,Dennis Williams,87,62,95,78,322,A,87,2,1,Master,High,"[60, 48, 72, 50]",Visual,1
+261,Anthony Bender,87,44,45,93,269,B,91,1,0,High School,Low,"[95, 53, 93, 59]",Auditory,0
+262,David Horton,88,79,64,81,312,B,71,1,1,Bachelor,Low,"[57, 54, 64, 80]",Visual,0
+263,Cheryl Anderson,54,76,70,72,272,B,70,4,1,Master,Middle,"[47, 87, 39, 39]",Auditory,1
+264,Douglas Meyers MD,85,58,57,72,272,B,90,5,1,High School,Middle,"[56, 75, 31, 56]",Auditory,1
+265,Sierra Hill,70,76,77,68,291,B,99,1,0,Bachelor,High,"[48, 38, 64, 37]",Visual,0
+266,Michael Reese,77,80,63,77,297,B,74,1,0,High School,Middle,"[38, 59, 67, 33]",Visual,0
+267,Michael Miller,84,66,92,72,314,B,93,1,0,Doctorate,Middle,"[90, 35, 71, 70]",Visual,0
+268,Spencer Morales,77,43,41,74,235,C,76,4,0,High School,Middle,"[51, 69, 95, 49]",Auditory,0
+269,Joy Barron,54,60,79,95,288,B,70,5,1,Master,High,"[39, 44, 30, 35]",Kinesthetic,0
+270,Lauren Jimenez,72,88,88,91,339,A,92,5,1,Bachelor,High,"[75, 75, 95, 93]",Auditory,0
+271,Alyssa Ramirez,95,64,49,75,283,B,91,4,1,High School,Low,"[43, 74, 95, 71]",Visual,1
+272,Dawn Nguyen,93,77,79,87,336,A,98,1,1,High School,Middle,"[57, 31, 62, 79]",Auditory,1
+273,Lisa Smith,72,95,95,80,342,A,71,4,1,Doctorate,Middle,"[46, 31, 50, 47]",Auditory,0
+274,Glenn Collins,80,79,90,86,335,A,72,4,1,Bachelor,High,"[76, 62, 32, 34]",Auditory,0
+275,Michelle Guerrero,79,73,55,71,278,B,96,3,0,Master,Middle,"[39, 42, 31, 48]",Kinesthetic,0
+276,John Montgomery,67,69,45,88,269,B,89,5,0,Doctorate,High,"[61, 59, 78, 92]",Kinesthetic,1
+277,Kathleen Davis,82,73,39,80,274,B,100,4,0,Doctorate,Middle,"[81, 87, 33, 68]",Visual,0
+278,Terri Lynn,76,70,65,69,280,B,100,1,1,Doctorate,Low,"[46, 74, 75, 67]",Auditory,1
+279,Tyler Ellis,82,53,52,95,282,B,99,1,0,High School,Low,"[94, 77, 43, 41]",Auditory,0
+280,Nicholas Gonzales,86,85,57,68,296,B,76,1,1,Master,Low,"[65, 50, 52, 50]",Auditory,1
+281,Amber Dillon,95,65,94,82,336,A,99,2,1,Master,High,"[71, 61, 89, 57]",Kinesthetic,0
+282,Richard Greer,81,76,28,78,263,B,82,3,1,High School,Low,"[48, 42, 39, 73]",Visual,0
+283,Benjamin Norris,93,83,95,70,341,A,92,1,0,Bachelor,High,"[68, 43, 86, 35]",Kinesthetic,0
+284,Cody Rodriguez,65,89,67,53,274,B,77,2,1,Bachelor,High,"[58, 84, 35, 77]",Auditory,1
+285,Ellen Moses,62,76,90,64,292,B,72,5,0,Master,Low,"[39, 53, 88, 35]",Kinesthetic,0
+286,Kelly Schultz,78,51,65,72,266,B,72,1,0,High School,Low,"[40, 79, 33, 41]",Auditory,1
+287,Tiffany Garcia,83,78,68,69,298,B,100,5,0,Bachelor,High,"[50, 41, 36, 48]",Kinesthetic,1
+288,Michelle Gutierrez,66,71,92,68,297,B,76,2,1,High School,Low,"[44, 66, 76, 75]",Visual,0
+289,Jennifer Meyer,70,69,61,72,272,B,72,1,0,Bachelor,High,"[40, 66, 39, 58]",Visual,0
+290,Traci Curtis,95,70,54,89,308,B,95,1,1,Bachelor,Middle,"[88, 65, 45, 94]",Kinesthetic,1
+291,Spencer Miller,81,52,95,83,311,B,93,4,0,Bachelor,High,"[83, 30, 52, 60]",Kinesthetic,0
+292,Dylan Lawson,74,62,80,85,301,B,79,1,0,Doctorate,High,"[90, 46, 39, 76]",Auditory,0
+293,John Peterson,62,69,24,61,216,C,86,5,1,Master,Middle,"[44, 47, 64, 49]",Visual,1
+294,Mark Huffman,89,82,68,66,305,B,87,5,0,Bachelor,Low,"[56, 75, 61, 43]",Kinesthetic,1
+295,Christine Roberts,73,76,75,63,287,B,97,3,1,High School,High,"[57, 56, 70, 34]",Visual,1
+296,Peggy Pierce,76,56,76,66,274,B,95,4,0,Master,High,"[72, 47, 56, 76]",Auditory,0
+297,David Warren,77,71,80,85,313,B,87,5,0,Bachelor,Middle,"[46, 79, 69, 93]",Kinesthetic,1
+298,Jillian Lopez,72,66,95,76,309,B,91,4,0,Master,Middle,"[91, 90, 35, 81]",Kinesthetic,0
+299,Anthony Erickson,60,38,83,61,242,B,97,4,0,Doctorate,Low,"[92, 89, 94, 87]",Kinesthetic,0
+300,Joshua Hutchinson DVM,75,46,95,68,284,B,90,5,0,Bachelor,Low,"[89, 85, 51, 66]",Auditory,1
+301,Kimberly Pruitt,82,74,43,71,270,B,93,3,0,Doctorate,Middle,"[75, 87, 44, 76]",Visual,1
+302,Robert Bond,91,64,70,65,290,B,73,4,0,Bachelor,High,"[74, 90, 88, 88]",Auditory,0
+303,Ronnie Roth,72,72,58,71,273,B,83,1,1,High School,Middle,"[48, 74, 84, 55]",Auditory,0
+304,Destiny Gray,82,47,93,73,295,B,74,3,0,Doctorate,Low,"[71, 91, 75, 95]",Kinesthetic,1
+305,Thomas Grant,82,87,43,74,286,B,98,1,1,Master,Middle,"[45, 44, 48, 71]",Visual,1
+306,Jessica Nelson,95,74,62,95,326,A,99,2,0,Bachelor,Low,"[68, 34, 85, 70]",Kinesthetic,1
+307,Katie Hamilton,87,74,91,81,333,A,91,4,1,Bachelor,Middle,"[84, 95, 50, 36]",Auditory,0
+308,Michael Davidson Jr.,67,50,85,92,294,B,76,4,0,High School,Middle,"[93, 79, 74, 47]",Kinesthetic,1
+309,Brandon Reeves,82,82,66,78,308,B,97,1,0,Doctorate,High,"[74, 48, 89, 87]",Visual,1
+310,James Hughes,87,57,49,68,261,B,82,2,1,Doctorate,Middle,"[49, 92, 95, 60]",Kinesthetic,0
+311,Gerald Hendricks,77,90,80,79,326,A,93,2,0,Bachelor,Middle,"[85, 46, 31, 78]",Kinesthetic,0
+312,Julia Nichols,76,79,95,75,325,A,71,3,0,Doctorate,Middle,"[67, 67, 77, 85]",Kinesthetic,0
+313,Tamara Harmon,89,68,54,66,277,B,70,3,1,High School,Low,"[42, 44, 65, 56]",Kinesthetic,0
+314,Dwayne Wallace,73,91,87,63,314,B,83,2,1,Doctorate,Middle,"[46, 34, 84, 78]",Visual,0
+315,Sharon Smith,87,62,68,86,303,B,97,3,1,High School,Low,"[50, 76, 33, 35]",Auditory,1
+316,Jason Meza,93,64,39,88,284,B,77,5,0,Bachelor,High,"[68, 65, 41, 85]",Auditory,1
+317,Thomas Spencer,69,76,67,81,293,B,76,5,1,Bachelor,Middle,"[55, 68, 74, 81]",Kinesthetic,1
+318,William Jackson,87,48,59,78,272,B,70,3,0,Doctorate,High,"[80, 50, 75, 71]",Auditory,1
+319,Emily Davis,90,57,51,70,268,B,80,1,1,Doctorate,High,"[57, 69, 66, 72]",Auditory,0
+320,Benjamin Martinez,68,28,48,68,212,C,100,2,0,Bachelor,Middle,"[33, 62, 55, 31]",Visual,0
+321,Victor Miller,72,77,90,90,329,A,98,1,1,Master,Low,"[47, 33, 52, 61]",Visual,0
+322,Tammy Carroll,78,42,86,94,300,B,73,3,1,Master,Middle,"[81, 81, 67, 93]",Auditory,0
+323,Jennifer Brown,86,68,63,61,278,B,85,3,1,Doctorate,High,"[47, 90, 94, 30]",Visual,1
+324,Theresa Gomez,85,64,39,74,262,B,79,2,1,Master,High,"[84, 41, 39, 90]",Auditory,1
+325,Bernard Cook,76,69,70,80,295,B,92,3,1,Bachelor,High,"[87, 53, 85, 47]",Auditory,0
+326,Chris Davis,65,81,68,67,281,B,84,2,0,Doctorate,Low,"[82, 86, 53, 35]",Auditory,0
+327,Megan Duncan,74,75,84,60,293,B,72,1,1,High School,High,"[64, 90, 45, 76]",Kinesthetic,1
+328,Larry Stanton,75,57,77,74,283,B,87,5,0,Master,Middle,"[33, 90, 63, 73]",Kinesthetic,0
+329,Yvette Nelson,76,79,43,71,269,B,80,2,0,Bachelor,Middle,"[70, 60, 71, 30]",Auditory,1
+330,Joy Mora,69,55,95,62,281,B,98,1,0,High School,Middle,"[82, 65, 94, 54]",Kinesthetic,1
+331,Mr. Mark Anderson,79,56,49,74,258,B,88,5,0,High School,Low,"[38, 75, 83, 42]",Visual,0
+332,Yolanda Andrews,83,49,64,88,284,B,100,2,0,Master,Low,"[47, 59, 39, 42]",Auditory,1
+333,Nicholas Morgan,74,86,72,64,296,B,88,2,1,Bachelor,Middle,"[33, 70, 37, 85]",Auditory,1
+334,Ronald Green,85,63,57,74,279,B,88,1,1,High School,Low,"[66, 91, 73, 48]",Kinesthetic,1
+335,Robin Carter,71,58,43,68,240,B,80,3,0,Doctorate,Low,"[69, 49, 77, 51]",Kinesthetic,1
+336,Samuel Johnson,86,82,80,83,331,A,85,1,0,Bachelor,Low,"[94, 84, 76, 79]",Kinesthetic,0
+337,Emily Brady,95,87,73,70,325,A,72,5,1,Master,High,"[66, 85, 84, 54]",Visual,1
+338,Nicholas Simmons,85,60,40,75,260,B,75,4,0,Master,High,"[83, 68, 67, 85]",Visual,0
+339,Danielle Peters,83,67,59,78,287,B,89,1,1,Bachelor,Low,"[38, 72, 30, 38]",Visual,0
+340,Zachary Donovan,84,95,58,66,303,B,86,5,1,Master,Low,"[86, 60, 71, 52]",Auditory,0
+341,Wayne Delacruz,81,64,55,67,267,B,83,1,0,Master,High,"[48, 37, 95, 94]",Kinesthetic,1
+342,Michele Clark,83,81,55,57,276,B,79,4,0,Master,Low,"[44, 60, 57, 76]",Visual,1
+343,Michelle Mcgee,74,56,68,59,257,B,89,3,1,Master,Low,"[51, 58, 74, 81]",Kinesthetic,1
+344,Mrs. Patricia Banks,87,47,51,75,260,B,94,5,0,Doctorate,Middle,"[32, 75, 43, 87]",Kinesthetic,0
+345,Sharon Shields,77,48,82,82,289,B,78,5,0,Bachelor,Middle,"[89, 57, 77, 81]",Auditory,0
+346,Christopher Johnson,88,74,59,60,281,B,87,5,1,Doctorate,Middle,"[45, 44, 79, 79]",Visual,1
+347,Roy Evans,94,64,66,95,319,B,97,1,0,High School,High,"[36, 40, 36, 58]",Kinesthetic,1
+348,Michael Smith,89,89,93,73,344,A,93,5,0,Bachelor,Low,"[90, 38, 49, 42]",Kinesthetic,1
+349,Ms. Tracy Zimmerman,85,60,48,95,288,B,74,4,0,Bachelor,Low,"[45, 67, 36, 48]",Kinesthetic,1
+350,Henry Smith,95,66,67,58,286,B,75,5,1,High School,High,"[68, 71, 83, 44]",Visual,0
+351,Mary Brown,71,67,75,60,273,B,77,1,1,Master,Low,"[60, 91, 64, 72]",Visual,1
+352,Bryan Alexander,90,67,90,67,314,B,100,3,1,High School,Middle,"[92, 57, 76, 80]",Visual,1
+353,Denise Byrd,92,59,90,85,326,A,77,2,0,Master,Middle,"[65, 94, 49, 50]",Auditory,1
+354,Kimberly Gonzalez,84,59,65,70,278,B,92,4,0,Bachelor,Middle,"[42, 33, 89, 51]",Visual,0
+355,Amy Sandoval,90,73,64,91,318,B,73,1,1,Master,Low,"[43, 55, 88, 55]",Kinesthetic,1
+356,Brian Johnson,74,48,51,60,233,C,74,2,0,Master,High,"[46, 42, 58, 78]",Auditory,1
+357,Amber Ramirez,71,68,86,78,303,B,93,4,0,Master,Low,"[54, 51, 52, 88]",Kinesthetic,0
+358,Kimberly Robles,86,48,30,89,253,B,74,4,0,Bachelor,Low,"[58, 65, 56, 45]",Visual,1
+359,Ashley Ortiz,75,79,74,66,294,B,91,1,1,Bachelor,High,"[45, 50, 85, 94]",Auditory,1
+360,Brandon Williams,84,74,68,76,302,B,70,2,1,Master,High,"[63, 38, 81, 81]",Visual,0
+361,Julia Thomas,64,58,95,74,291,B,100,1,1,Master,Middle,"[84, 75, 82, 82]",Visual,0
+362,Joseph Carter,95,60,36,93,284,B,97,4,1,Doctorate,Low,"[57, 32, 85, 87]",Auditory,1
+363,Angela Gonzalez,67,52,73,67,259,B,81,2,0,High School,High,"[50, 55, 62, 77]",Auditory,1
+364,Jeremy Larsen,95,84,57,92,328,A,79,2,0,Master,Low,"[89, 89, 74, 95]",Auditory,1
+365,Kerri Nelson,91,67,76,61,295,B,80,5,0,Doctorate,Low,"[45, 34, 72, 51]",Auditory,0
+366,Elizabeth Thornton,92,55,60,65,272,B,79,4,0,Bachelor,Low,"[59, 79, 83, 65]",Visual,1
+367,Juan Kirby,84,58,66,95,303,B,84,2,0,Master,Low,"[63, 49, 91, 77]",Kinesthetic,0
+368,Donna Hill,87,62,95,88,332,A,91,3,0,Doctorate,Low,"[54, 90, 41, 40]",Visual,1
+369,Gabriel Miller,79,81,88,70,318,B,98,4,0,Doctorate,High,"[58, 57, 35, 70]",Auditory,1
+370,Douglas Rice,73,87,41,75,276,B,72,2,0,High School,Middle,"[80, 78, 47, 56]",Visual,1
+371,Joshua Johnson,93,84,51,57,285,B,70,1,1,Bachelor,High,"[84, 38, 63, 52]",Kinesthetic,1
+372,Melanie Jennings,76,72,76,73,297,B,90,5,1,Master,Middle,"[56, 46, 75, 94]",Visual,0
+373,Megan Gomez,74,65,50,62,251,B,92,4,0,Master,Low,"[60, 92, 44, 38]",Auditory,1
+374,Rachel Wagner,70,60,95,67,292,B,79,5,0,Doctorate,High,"[63, 56, 61, 46]",Auditory,1
+375,Dennis Cabrera,84,62,66,68,280,B,98,5,1,Master,High,"[75, 38, 36, 59]",Visual,0
+376,Danny Blanchard,89,77,32,92,290,B,91,5,0,Master,Low,"[32, 33, 34, 80]",Visual,1
+377,Karen Ashley,79,85,33,67,264,B,81,5,1,Bachelor,Low,"[87, 44, 30, 58]",Auditory,1
+378,Valerie Sharp,71,70,51,73,265,B,71,5,1,Bachelor,Low,"[90, 82, 85, 44]",Visual,0
+379,Dr. Philip Martin,78,92,95,72,337,A,77,1,0,Bachelor,Low,"[51, 52, 69, 71]",Auditory,0
+380,Erin Williams,87,49,79,93,308,B,92,2,0,Doctorate,Middle,"[87, 82, 34, 58]",Visual,1
+381,Alexis Waller,80,88,50,70,288,B,85,3,1,Bachelor,Middle,"[94, 69, 42, 45]",Auditory,0
+382,Ryan Wilson,79,63,62,72,276,B,81,2,1,Doctorate,Low,"[67, 50, 73, 80]",Visual,1
+383,Nicholas Hodges,76,42,27,70,215,C,89,1,0,Master,Middle,"[36, 34, 79, 51]",Kinesthetic,1
+384,Susan Green,71,77,76,78,302,B,100,3,0,High School,High,"[93, 50, 80, 92]",Auditory,0
+385,Mr. Christopher Martinez MD,87,39,64,65,255,B,79,1,1,High School,Low,"[42, 82, 83, 30]",Auditory,0
+386,Anthony Brown,72,84,55,65,276,B,75,5,0,Bachelor,Low,"[31, 95, 94, 57]",Kinesthetic,0
+387,Michael Hopkins,80,45,69,76,270,B,87,2,1,Master,High,"[86, 61, 83, 33]",Auditory,1
+388,Spencer Baker,75,66,50,95,286,B,100,4,0,Doctorate,High,"[39, 33, 35, 60]",Visual,1
+389,Dr. Erik Dominguez,93,77,48,74,292,B,79,2,1,High School,Middle,"[44, 73, 72, 74]",Kinesthetic,0
+390,John Guerra,81,61,63,79,284,B,79,5,1,Bachelor,High,"[30, 41, 31, 38]",Auditory,0
+391,Mary Ross,73,53,72,75,273,B,88,4,1,Doctorate,Low,"[45, 42, 35, 75]",Auditory,0
+392,Kimberly Hutchinson,73,81,62,67,283,B,86,4,0,Doctorate,Low,"[41, 80, 59, 94]",Auditory,1
+393,James Solis,95,53,18,76,242,B,99,5,1,Master,Middle,"[75, 36, 48, 85]",Auditory,0
+394,Jeffrey Anderson,79,69,48,62,258,B,85,2,1,High School,Low,"[54, 60, 38, 91]",Kinesthetic,0
+395,Phillip Price,90,48,82,82,302,B,97,5,1,Doctorate,Low,"[71, 69, 34, 66]",Auditory,0
+396,Brandon Martin,75,38,63,65,241,B,70,2,0,Doctorate,High,"[82, 46, 42, 84]",Auditory,0
+397,Jennifer Rodriguez,95,79,59,78,311,B,97,5,1,Doctorate,Low,"[55, 32, 44, 38]",Auditory,0
+398,Brian Nelson,82,61,51,94,288,B,72,3,0,Bachelor,Middle,"[66, 65, 67, 68]",Auditory,1
+399,Eric Rodriguez,70,86,22,76,254,B,97,5,0,Doctorate,Middle,"[32, 87, 75, 41]",Visual,1
+400,Heather Joseph,92,41,95,80,308,B,72,2,1,Master,Low,"[60, 30, 59, 73]",Visual,1
+401,Barbara Miller,74,83,48,74,279,B,95,4,0,High School,Middle,"[51, 76, 84, 35]",Auditory,1
+402,Derek Arnold,77,53,43,72,245,B,75,4,1,Bachelor,Low,"[39, 47, 69, 31]",Kinesthetic,0
+403,Brittany Clark,85,60,88,77,310,B,71,2,1,Doctorate,High,"[69, 54, 38, 51]",Visual,0
+404,Kyle Torres,90,78,46,74,288,B,79,2,1,Bachelor,Low,"[80, 55, 54, 74]",Visual,0
+405,Dr. Michael White MD,71,90,54,66,281,B,93,4,1,Doctorate,Middle,"[57, 67, 59, 82]",Auditory,1
+406,Paula Hicks,86,95,34,73,288,B,81,5,1,High School,Low,"[94, 34, 58, 50]",Auditory,1
+407,Reginald Reynolds,93,60,95,82,330,A,89,4,1,Bachelor,Low,"[64, 47, 75, 49]",Visual,0
+408,Michelle Green,72,71,93,75,311,B,80,3,1,Master,High,"[68, 81, 55, 48]",Visual,1
+409,Tanner Morales,60,54,49,59,222,C,77,3,0,High School,High,"[68, 46, 31, 34]",Kinesthetic,1
+410,Aaron Knight,73,57,73,74,277,B,97,3,1,High School,Low,"[55, 59, 38, 78]",Visual,1
+411,Sarah Jacobs,74,88,68,81,311,B,83,4,1,Master,Low,"[54, 92, 33, 50]",Auditory,0
+412,April Cunningham,78,45,54,62,239,C,76,5,1,Bachelor,Low,"[46, 45, 68, 59]",Auditory,0
+413,Victor Cooper,67,69,59,78,273,B,80,3,1,Bachelor,Middle,"[63, 48, 82, 55]",Auditory,1
+414,Bradley Luna,87,53,59,74,273,B,88,2,0,Bachelor,Low,"[68, 56, 63, 37]",Visual,0
+415,Brian Moreno,95,77,89,71,332,A,95,2,1,High School,Middle,"[56, 37, 88, 62]",Auditory,0
+416,Kenneth Maldonado,89,53,32,58,232,C,86,1,0,Master,High,"[65, 77, 65, 51]",Kinesthetic,0
+417,Austin Edwards,64,63,77,66,270,B,96,5,1,High School,High,"[79, 62, 93, 87]",Auditory,0
+418,Lauren Griffin,73,53,80,50,256,B,72,4,1,Master,Middle,"[77, 36, 36, 86]",Auditory,1
+419,Derek Mullins,87,95,66,71,319,B,84,2,1,High School,Middle,"[53, 51, 54, 90]",Kinesthetic,1
+420,Caleb Farmer MD,95,59,69,76,299,B,99,5,0,Bachelor,Low,"[48, 66, 44, 43]",Visual,0
+421,Robin Wright,95,79,45,70,289,B,75,5,0,Master,Low,"[65, 56, 47, 76]",Visual,1
+422,Jonathan Mahoney,80,64,69,92,305,B,90,4,0,Doctorate,Middle,"[94, 94, 64, 85]",Auditory,1
+423,Kathy Palmer,82,70,29,73,254,B,99,3,0,Master,High,"[57, 47, 37, 30]",Auditory,0
+424,James Byrd,78,57,57,64,256,B,78,3,1,High School,Low,"[53, 91, 94, 50]",Kinesthetic,0
+425,Jonathan Dominguez,85,62,85,80,312,B,94,3,1,Bachelor,High,"[60, 41, 75, 77]",Auditory,1
+426,Andrew Bautista,75,84,34,72,265,B,85,1,0,Bachelor,High,"[61, 68, 61, 89]",Auditory,1
+427,Brian Smith,95,88,46,74,303,B,98,4,1,Bachelor,Middle,"[41, 89, 48, 89]",Visual,0
+428,Dana Santiago,65,72,78,58,273,B,73,2,0,Bachelor,Low,"[94, 72, 70, 86]",Visual,0
+429,Kelsey Castillo,88,63,78,54,283,B,88,1,1,Doctorate,Low,"[90, 58, 60, 32]",Visual,1
+430,Maria Reed,95,93,30,81,299,B,80,3,1,High School,Middle,"[69, 45, 82, 76]",Visual,1
+431,Zachary Johnson,95,66,53,86,300,B,90,2,0,Master,Middle,"[66, 80, 31, 35]",Visual,1
+432,Jeffery Fisher,75,95,85,78,333,A,79,5,1,Bachelor,High,"[35, 43, 92, 41]",Auditory,1
+433,Ashley Mcclure,90,86,95,95,366,A,92,4,1,Doctorate,High,"[57, 33, 74, 93]",Visual,0
+434,John Logan,89,79,38,62,268,B,77,2,0,Master,Low,"[81, 35, 70, 81]",Kinesthetic,0
+435,Cindy Adams,67,44,83,74,268,B,76,5,0,High School,High,"[68, 95, 36, 75]",Visual,0
+436,Anthony Chavez,74,72,53,64,263,B,82,4,1,Doctorate,High,"[59, 88, 85, 61]",Kinesthetic,0
+437,Michael Mccormick,88,68,62,64,282,B,79,4,0,Bachelor,Middle,"[53, 54, 44, 61]",Kinesthetic,1
+438,Elizabeth Yang,70,61,53,80,264,B,97,2,0,High School,Middle,"[41, 31, 45, 95]",Visual,1
+439,Michael Carter,92,65,50,81,288,B,71,4,1,Bachelor,Middle,"[86, 66, 34, 34]",Kinesthetic,1
+440,Nancy Martinez,63,86,76,82,307,B,87,1,1,Bachelor,Low,"[77, 53, 84, 90]",Visual,0
+441,Sharon Cruz,77,73,95,64,309,B,72,3,0,Doctorate,High,"[72, 61, 36, 82]",Kinesthetic,1
+442,Paula Cruz,79,81,59,54,273,B,74,2,1,Bachelor,Middle,"[79, 66, 65, 80]",Visual,0
+443,Sierra Smith,81,49,43,54,227,C,100,4,1,High School,Middle,"[93, 47, 83, 54]",Kinesthetic,0
+444,Debra Davis,55,89,73,74,291,B,89,4,1,Bachelor,High,"[51, 46, 78, 45]",Kinesthetic,0
+445,Gabriela Davis,79,38,84,90,291,B,97,3,0,Master,Middle,"[61, 31, 74, 47]",Visual,1
+446,Randall Christian,94,60,63,83,300,B,75,3,0,High School,High,"[70, 74, 60, 39]",Auditory,0
+447,Sarah Cook,79,58,95,77,309,B,97,1,1,High School,High,"[73, 48, 38, 76]",Visual,1
+448,Tanner Curry,77,83,44,95,299,B,79,2,0,Master,Middle,"[84, 92, 73, 57]",Kinesthetic,1
+449,Virginia West,95,84,86,69,334,A,75,3,0,Bachelor,Middle,"[85, 87, 45, 30]",Kinesthetic,0
+450,Zachary Davis,81,50,25,69,225,C,77,4,0,Doctorate,High,"[83, 55, 49, 49]",Visual,0
+451,Ashley Singh,71,46,65,64,246,B,81,5,0,Bachelor,Middle,"[87, 81, 34, 37]",Auditory,1
+452,Alexis Padilla,95,89,72,82,338,A,83,1,0,Doctorate,Low,"[43, 82, 56, 89]",Visual,0
+453,Angela Barber,81,60,87,82,310,B,71,4,0,Doctorate,High,"[51, 44, 32, 48]",Kinesthetic,1
+454,Matthew Martinez,68,80,68,95,311,B,79,2,0,High School,Low,"[45, 93, 92, 33]",Kinesthetic,0
+455,Allen Harrison,60,69,79,81,289,B,81,5,1,Doctorate,Middle,"[53, 71, 82, 41]",Auditory,0
+456,Ronald Garcia,89,54,65,77,285,B,91,1,1,Master,High,"[95, 53, 71, 93]",Visual,1
+457,Dr. Jeffrey Miller,64,79,59,73,275,B,99,2,0,Bachelor,Middle,"[92, 85, 68, 49]",Auditory,0
+458,James Warren,69,77,61,92,299,B,90,1,0,Master,High,"[71, 93, 40, 76]",Auditory,1
+459,Wesley Mccoy,79,90,76,58,303,B,93,1,1,Bachelor,High,"[68, 41, 43, 65]",Visual,1
+460,Christopher Brock,67,38,65,62,232,C,75,2,1,High School,Middle,"[41, 60, 84, 40]",Kinesthetic,1
+461,Brandon Bird,79,72,46,95,292,B,93,3,1,Doctorate,Middle,"[79, 79, 45, 39]",Visual,1
+462,Stephanie Franklin,72,77,39,80,268,B,82,3,1,Bachelor,Low,"[33, 86, 70, 63]",Visual,1
+463,Robert Romero,87,85,51,86,309,B,76,2,1,High School,Low,"[89, 71, 66, 36]",Auditory,0
+464,Stacey Alexander,88,95,62,78,323,A,99,5,1,High School,High,"[40, 31, 65, 73]",Auditory,1
+465,Robin Mclaughlin,93,78,70,88,329,A,72,4,0,Master,Low,"[45, 59, 71, 54]",Kinesthetic,1
+466,Jeffrey Williams,75,59,95,70,299,B,89,4,0,Bachelor,Middle,"[42, 60, 67, 69]",Kinesthetic,1
+467,William Gutierrez,81,65,55,75,276,B,99,5,1,High School,High,"[34, 64, 39, 34]",Auditory,0
+468,Gabriel Martin,74,66,45,63,248,B,74,3,0,Bachelor,High,"[83, 85, 72, 31]",Visual,0
+469,Daniel Ferguson,82,83,79,61,305,B,86,4,1,Doctorate,Low,"[63, 87, 80, 40]",Kinesthetic,1
+470,Matthew Erickson,76,59,95,57,287,B,93,3,1,High School,High,"[80, 30, 32, 67]",Auditory,1
+471,Lisa Ortiz,75,80,69,68,292,B,97,4,0,Master,Low,"[59, 95, 92, 57]",Visual,1
+472,Michael Thompson,80,63,87,84,314,B,81,1,1,High School,Low,"[62, 73, 59, 35]",Auditory,0
+473,Tara Cox,69,88,58,61,276,B,99,3,0,Doctorate,Low,"[87, 89, 48, 63]",Kinesthetic,1
+474,Patrick Brown,84,95,67,75,321,A,87,5,1,Master,Low,"[81, 59, 89, 66]",Kinesthetic,1
+475,Jennifer Davis,79,59,45,70,253,B,75,1,1,High School,Middle,"[86, 33, 87, 85]",Kinesthetic,0
+476,Rachel Stevenson,85,95,93,66,339,A,71,1,0,High School,High,"[36, 30, 59, 90]",Visual,1
+477,Dennis Thomas,90,81,81,65,317,B,92,3,0,Doctorate,Low,"[45, 80, 72, 62]",Kinesthetic,0
+478,Shawn Rodriguez,80,58,41,57,236,C,76,2,1,Doctorate,Low,"[65, 45, 94, 79]",Visual,1
+479,Elizabeth Sullivan,71,84,60,80,295,B,71,5,0,Master,High,"[51, 39, 80, 94]",Kinesthetic,1
+480,Brady Mcintyre,77,78,55,53,263,B,98,3,1,Master,Low,"[52, 43, 91, 64]",Auditory,0
+481,Daniel Dean,80,49,35,76,240,B,93,2,1,High School,Low,"[60, 68, 87, 32]",Visual,1
+482,Wanda Rasmussen,80,87,89,75,331,A,71,1,0,Master,High,"[58, 88, 61, 80]",Kinesthetic,0
+483,Kevin Johnson,71,67,95,81,314,B,71,4,0,Bachelor,Low,"[45, 42, 45, 55]",Auditory,1
+484,Robert Martin,72,64,56,56,248,B,75,4,0,Bachelor,High,"[75, 90, 48, 80]",Kinesthetic,1
+485,Zachary Morales,82,56,71,87,296,B,72,1,0,Doctorate,High,"[81, 44, 36, 52]",Auditory,0
+486,Dr. Christopher Sawyer,78,72,57,71,278,B,89,1,1,Master,Middle,"[84, 31, 60, 82]",Visual,1
+487,Mr. Brad Rogers,81,94,71,46,292,B,72,3,1,Master,High,"[40, 61, 73, 46]",Visual,0
+488,Monique Brown,76,78,69,70,293,B,81,4,1,Master,Middle,"[62, 73, 54, 34]",Kinesthetic,1
+489,William Leonard,91,77,65,85,318,B,87,1,0,Master,Low,"[79, 89, 54, 60]",Auditory,1
+490,Sharon Velez,84,78,15,90,267,B,99,4,1,Master,Low,"[93, 46, 37, 40]",Kinesthetic,0
+491,Amy Acosta,77,60,84,70,291,B,74,2,1,Master,Middle,"[56, 83, 86, 52]",Visual,1
+492,Cheryl Ray,87,74,43,59,263,B,93,1,0,Doctorate,Low,"[31, 75, 33, 66]",Auditory,1
+493,Jason Khan,91,39,68,42,240,B,96,3,0,Bachelor,Middle,"[37, 91, 65, 73]",Kinesthetic,0
+494,Tommy Gutierrez,85,52,64,78,279,B,100,3,1,Master,Middle,"[66, 48, 78, 82]",Kinesthetic,1
+495,Tracey Richards,91,92,48,60,291,B,91,5,1,Bachelor,Middle,"[88, 75, 77, 46]",Auditory,0
+496,Barbara Nichols,77,73,43,63,256,B,72,5,1,Bachelor,Middle,"[54, 39, 76, 80]",Auditory,0
+497,Stephanie Elliott MD,86,72,56,85,299,B,79,4,0,Master,Middle,"[81, 84, 84, 41]",Auditory,0
+498,Kimberly Pittman,86,79,62,71,298,B,93,3,0,Doctorate,Low,"[77, 85, 61, 51]",Visual,0
+499,Jordan Herrera,95,89,44,84,312,B,86,4,1,Doctorate,Low,"[77, 69, 44, 44]",Auditory,0
+500,Scott Crawford PhD,93,75,76,83,327,A,89,3,0,Bachelor,High,"[78, 53, 38, 52]",Visual,0
+501,Brandon Mason,75,95,59,95,324,A,80,4,1,Bachelor,Low,"[56, 86, 86, 44]",Kinesthetic,0
+502,Hannah Garcia,77,75,77,63,292,B,93,3,0,Bachelor,Low,"[57, 69, 43, 46]",Visual,0
+503,Christopher Reed,79,55,42,78,254,B,82,2,1,Doctorate,High,"[30, 35, 41, 76]",Visual,0
+504,Mary Mahoney,74,71,41,90,276,B,88,2,1,Doctorate,Middle,"[36, 93, 55, 87]",Visual,0
+505,Dana Ferguson,87,55,78,82,302,B,88,5,1,Doctorate,Middle,"[66, 80, 58, 52]",Auditory,0
+506,Justin Roberts,88,73,50,56,267,B,74,3,0,High School,Low,"[85, 48, 83, 85]",Auditory,1
+507,Tim Meyer,77,95,63,74,309,B,88,5,1,High School,Middle,"[57, 93, 33, 94]",Auditory,0
+508,John Hodge,95,90,64,79,328,A,94,4,1,Bachelor,High,"[90, 46, 59, 84]",Auditory,1
+509,Janice Woodard,82,78,92,61,313,B,79,4,1,Doctorate,Low,"[53, 87, 88, 53]",Kinesthetic,1
+510,Sylvia Gordon,77,71,63,84,295,B,80,4,0,Doctorate,Low,"[38, 64, 79, 68]",Kinesthetic,0
+511,Maria Lee,69,50,95,86,300,B,100,3,0,High School,Middle,"[66, 83, 61, 91]",Auditory,0
+512,Anthony Hines,92,79,60,70,301,B,84,5,0,Doctorate,Low,"[44, 65, 41, 43]",Kinesthetic,1
+513,Harold Bishop,68,77,95,95,335,A,81,5,1,Master,Middle,"[70, 80, 87, 59]",Kinesthetic,0
+514,Sarah Foster,82,88,77,75,322,A,84,4,0,High School,High,"[59, 30, 43, 88]",Visual,1
+515,Brian Fuller,93,64,82,77,316,B,73,2,1,Doctorate,High,"[83, 64, 59, 38]",Kinesthetic,0
+516,Larry Hernandez MD,95,45,76,78,294,B,71,4,0,High School,Low,"[41, 47, 95, 50]",Visual,1
+517,Kylie Kelley,69,95,95,48,307,B,82,4,0,High School,Middle,"[55, 82, 84, 56]",Kinesthetic,1
+518,Ryan Rogers,58,62,94,68,282,B,81,4,0,Bachelor,Low,"[66, 87, 52, 45]",Kinesthetic,0
+519,Timothy David,95,72,80,86,333,A,99,5,0,Bachelor,High,"[68, 61, 37, 46]",Auditory,0
+520,Catherine Cobb,62,84,48,80,274,B,86,5,0,Master,Middle,"[89, 79, 33, 63]",Kinesthetic,1
+521,Tara Mitchell,83,85,58,77,303,B,73,3,0,Master,Low,"[74, 72, 77, 74]",Visual,1
+522,Theodore Torres,76,39,67,73,255,B,72,2,0,Doctorate,Middle,"[39, 66, 53, 51]",Visual,1
+523,Suzanne Schmidt,61,82,81,76,300,B,84,2,1,High School,High,"[84, 79, 61, 34]",Auditory,1
+524,Ashley Gray,57,90,62,68,277,B,98,3,1,Bachelor,Middle,"[43, 95, 38, 47]",Visual,0
+525,Paul Foster,67,68,26,92,253,B,93,1,1,Bachelor,Low,"[61, 93, 86, 63]",Kinesthetic,0
+526,Stephen Hughes,87,55,30,74,246,B,76,5,0,Bachelor,Middle,"[95, 69, 62, 70]",Kinesthetic,1
+527,Ashley Armstrong,81,75,80,78,314,B,73,1,0,High School,Middle,"[39, 66, 76, 40]",Kinesthetic,1
+528,Melissa Newman,72,43,78,90,283,B,90,1,1,High School,Middle,"[87, 52, 89, 85]",Auditory,1
+529,Leslie Bass,95,49,68,74,286,B,74,2,0,Master,Middle,"[53, 86, 34, 42]",Auditory,1
+530,Robert Garza,90,74,44,75,283,B,92,4,0,High School,Low,"[41, 48, 67, 75]",Kinesthetic,0
+531,Sierra Gross,74,69,95,66,304,B,81,3,1,Doctorate,Middle,"[79, 48, 50, 58]",Kinesthetic,1
+532,Carl Johnson,60,80,23,67,230,C,89,5,1,Bachelor,Middle,"[44, 79, 53, 87]",Kinesthetic,0
+533,Samuel Harris,82,62,62,80,286,B,87,2,1,Bachelor,Low,"[69, 36, 58, 63]",Visual,1
+534,Natalie Velazquez,77,51,95,59,282,B,77,5,0,Bachelor,Middle,"[31, 64, 69, 90]",Kinesthetic,0
+535,Norman Mills,83,70,66,59,278,B,80,5,1,Bachelor,Low,"[54, 44, 60, 42]",Auditory,0
+536,Kimberly Holland,81,95,63,75,314,B,92,5,1,High School,Middle,"[55, 93, 65, 70]",Auditory,1
+537,Patrick Vargas,81,49,39,59,228,C,97,1,0,Doctorate,High,"[68, 41, 38, 39]",Kinesthetic,1
+538,Jennifer Jenkins,84,45,70,61,260,B,70,1,1,High School,Middle,"[43, 34, 82, 85]",Auditory,0
+539,Martha Hardin,95,57,61,95,308,B,74,3,1,Bachelor,Middle,"[64, 39, 38, 84]",Auditory,1
+540,Brooke Wolfe,90,69,73,82,314,B,80,5,1,Bachelor,Middle,"[51, 78, 43, 83]",Kinesthetic,1
+541,Sherry Walter,69,52,55,74,250,B,76,3,1,High School,Low,"[63, 32, 65, 53]",Kinesthetic,1
+542,Amber Ortiz,69,86,80,83,318,B,100,3,1,Bachelor,High,"[66, 90, 76, 86]",Kinesthetic,0
+543,Todd Bell,90,50,66,85,291,B,85,2,0,High School,High,"[80, 86, 48, 39]",Kinesthetic,1
+544,Dominic King,82,64,56,88,290,B,74,5,0,High School,High,"[66, 87, 47, 86]",Kinesthetic,0
+545,Jacqueline Willis,64,77,44,87,272,B,94,3,1,High School,Middle,"[85, 56, 35, 90]",Kinesthetic,1
+546,Tammie Ewing,95,77,79,74,325,A,75,3,0,High School,High,"[92, 94, 86, 57]",Visual,0
+547,Tracy Ferguson,80,78,93,69,320,A,78,4,1,High School,Middle,"[50, 34, 41, 89]",Visual,1
+548,Lindsey West,80,95,95,63,333,A,81,3,1,Master,Low,"[57, 77, 70, 40]",Kinesthetic,1
+549,Lauren Colon,89,57,50,92,288,B,89,1,0,Bachelor,High,"[57, 91, 60, 66]",Kinesthetic,1
+550,Emma Mendez,71,70,56,52,249,B,90,5,1,Master,Middle,"[87, 66, 92, 79]",Visual,1
+551,Laura Graham,63,61,65,69,258,B,95,4,1,Bachelor,Low,"[44, 93, 41, 38]",Kinesthetic,0
+552,Tiffany Estrada,69,80,69,54,272,B,93,2,1,Master,High,"[60, 56, 66, 47]",Visual,1
+553,Denise Taylor,93,95,60,57,305,B,78,4,1,Doctorate,High,"[43, 77, 66, 82]",Visual,0
+554,Emily Martin,86,81,52,58,277,B,74,2,1,Doctorate,Middle,"[34, 32, 54, 49]",Visual,1
+555,Thomas Chavez,95,91,59,79,324,A,98,5,1,Master,High,"[49, 71, 65, 31]",Auditory,0
+556,Mark Webb,85,65,85,95,330,A,81,5,1,Master,High,"[91, 91, 40, 47]",Visual,1
+557,Beverly Brown,87,57,56,86,286,B,99,5,0,Doctorate,Middle,"[65, 36, 38, 50]",Auditory,1
+558,Angela Martinez,87,42,95,62,286,B,93,1,1,High School,High,"[86, 35, 38, 52]",Auditory,0
+559,David Martin,75,69,73,72,289,B,88,3,1,Master,High,"[68, 42, 58, 72]",Auditory,0
+560,Brittney Spencer,77,95,73,66,311,B,78,2,1,Doctorate,Low,"[45, 42, 31, 86]",Visual,1
+561,Kerry Moore,87,86,65,93,331,A,73,2,1,Master,Low,"[58, 56, 94, 70]",Visual,0
+562,Jennifer Tyler,71,85,56,82,294,B,92,4,1,Master,High,"[49, 46, 53, 47]",Visual,1
+563,Nancy Taylor,70,76,94,86,326,A,100,2,0,High School,Middle,"[41, 36, 72, 52]",Kinesthetic,1
+564,Seth Mclaughlin,74,43,85,86,288,B,83,1,1,Master,High,"[46, 56, 76, 52]",Visual,0
+565,Destiny Singh,95,42,39,77,253,B,86,1,0,Doctorate,High,"[77, 82, 60, 51]",Auditory,0
+566,Alyssa Alexander,90,63,84,82,319,B,89,3,0,Bachelor,Low,"[69, 35, 73, 76]",Auditory,1
+567,Dana Austin,63,58,44,79,244,B,93,5,0,Bachelor,Middle,"[89, 38, 92, 63]",Kinesthetic,1
+568,Mary Butler,90,81,39,82,292,B,71,3,0,High School,Middle,"[77, 61, 65, 80]",Auditory,1
+569,Bryan Schroeder,77,83,67,71,298,B,97,2,1,Master,Low,"[95, 63, 58, 91]",Kinesthetic,0
+570,Kelsey Reid,82,83,80,69,314,B,80,4,0,Master,Low,"[59, 64, 90, 63]",Auditory,1
+571,Megan Dixon,69,65,74,81,289,B,76,3,1,Master,Middle,"[64, 60, 39, 57]",Visual,0
+572,Michael Porter,85,68,53,72,278,B,85,1,0,Master,High,"[63, 32, 59, 79]",Visual,1
+573,Ricky Davis,72,49,86,90,297,B,85,3,0,Doctorate,High,"[63, 67, 54, 72]",Kinesthetic,1
+574,Mitchell Padilla,76,95,59,73,303,B,98,1,1,Master,High,"[89, 32, 74, 38]",Kinesthetic,1
+575,Wanda Nolan,92,53,50,79,274,B,70,2,0,Bachelor,High,"[40, 94, 47, 94]",Auditory,0
+576,Keith Henry,67,50,57,75,249,B,81,2,1,Master,Middle,"[90, 55, 71, 71]",Auditory,1
+577,Joseph Gardner,68,68,72,76,284,B,100,5,0,Master,Low,"[30, 40, 71, 91]",Kinesthetic,0
+578,Joseph Smith,73,82,95,90,340,A,93,1,0,High School,Middle,"[30, 38, 86, 87]",Kinesthetic,0
+579,Thomas Ramirez,76,68,87,65,296,B,74,1,1,Master,Low,"[57, 46, 89, 86]",Visual,1
+580,Joseph Wilcox,78,36,76,83,273,B,71,4,0,Bachelor,Middle,"[75, 42, 82, 61]",Auditory,1
+581,Margaret Rodriguez,81,53,73,88,295,B,99,3,1,High School,Middle,"[85, 89, 64, 62]",Auditory,1
+582,Kelsey Russell,76,52,44,81,253,B,96,5,0,High School,High,"[68, 36, 66, 77]",Kinesthetic,1
+583,Danielle Glass,78,61,85,63,287,B,84,3,0,Doctorate,Middle,"[78, 79, 93, 65]",Kinesthetic,1
+584,Gregory Martin,88,71,72,67,298,B,74,4,0,High School,High,"[77, 54, 58, 85]",Visual,1
+585,William Lopez,95,63,59,77,294,B,88,5,1,Master,Middle,"[68, 33, 95, 78]",Visual,0
+586,Ralph David,67,73,88,82,310,B,91,5,0,Doctorate,Low,"[54, 40, 82, 71]",Auditory,0
+587,Nicole Hicks,94,95,58,77,324,A,85,1,0,Bachelor,Low,"[42, 84, 88, 55]",Visual,1
+588,Tammy Porter,81,76,66,88,311,B,81,2,1,Bachelor,Middle,"[68, 75, 66, 30]",Auditory,1
+589,Scott Yates,79,74,43,70,266,B,91,5,1,Bachelor,High,"[48, 58, 60, 45]",Kinesthetic,1
+590,Ashley Taylor,77,79,71,74,301,B,78,3,0,High School,Middle,"[67, 88, 92, 40]",Kinesthetic,1
+591,Laura Morales,83,61,75,63,282,B,84,1,0,Doctorate,Low,"[87, 83, 93, 61]",Kinesthetic,0
+592,Allison Hamilton,76,95,64,78,313,B,87,5,1,Doctorate,Low,"[33, 73, 59, 56]",Kinesthetic,0
+593,Dennis Hernandez,85,69,43,78,275,B,92,3,0,Doctorate,High,"[41, 63, 61, 59]",Visual,0
+594,Paula Young,60,82,68,68,278,B,73,4,0,Doctorate,High,"[55, 83, 80, 74]",Kinesthetic,0
+595,Joseph Mendoza DVM,75,63,68,72,278,B,99,1,0,High School,Middle,"[52, 44, 82, 83]",Kinesthetic,1
+596,Jason Hayes,82,57,68,68,275,B,86,5,1,Master,High,"[82, 47, 70, 62]",Kinesthetic,0
+597,Marie Espinoza,95,56,81,79,311,B,88,1,0,Doctorate,Middle,"[33, 94, 36, 31]",Kinesthetic,1
+598,Corey Bradley,81,89,88,71,329,A,100,4,0,High School,High,"[44, 46, 85, 73]",Visual,1
+599,Jorge Scott,91,52,63,90,296,B,71,3,1,Doctorate,High,"[36, 32, 80, 92]",Kinesthetic,1
+600,Sara Alvarez,75,71,39,74,259,B,97,2,1,Doctorate,High,"[57, 39, 33, 42]",Visual,0
+601,Christopher Christensen,74,64,37,86,261,B,84,2,1,Bachelor,Low,"[46, 50, 33, 53]",Kinesthetic,1
+602,Vincent Martin,90,95,93,63,341,A,88,4,1,Bachelor,Low,"[73, 71, 83, 58]",Kinesthetic,0
+603,Jessica Robertson,74,39,60,77,250,B,75,4,1,Bachelor,Middle,"[59, 92, 48, 75]",Auditory,1
+604,Samantha Santos,88,81,79,87,335,A,78,3,0,High School,Middle,"[84, 45, 87, 79]",Visual,1
+605,David Wilson,93,95,34,61,283,B,94,4,1,Master,Middle,"[93, 75, 75, 55]",Visual,1
+606,Jermaine Vasquez,78,68,68,69,283,B,86,4,1,Doctorate,Middle,"[90, 85, 62, 73]",Visual,1
+607,David Banks,82,63,36,93,274,B,92,2,0,Master,Middle,"[65, 50, 58, 70]",Visual,1
+608,Dawn Brock,77,72,71,64,284,B,87,2,0,Bachelor,Low,"[73, 30, 66, 59]",Kinesthetic,1
+609,Stephen Ramirez,55,60,64,95,274,B,73,3,0,Doctorate,Middle,"[48, 84, 30, 74]",Auditory,1
+610,Ashley Ward,95,63,75,80,313,B,85,1,1,Bachelor,High,"[40, 54, 54, 35]",Visual,0
+611,Steven Sexton,85,67,65,73,290,B,93,5,0,Doctorate,Middle,"[41, 58, 80, 62]",Auditory,0
+612,Rebecca Johnson,86,23,61,90,260,B,87,1,1,Bachelor,Middle,"[95, 30, 58, 41]",Auditory,0
+613,Amy Aguirre,93,63,78,62,296,B,81,5,1,Doctorate,Middle,"[51, 51, 52, 72]",Auditory,0
+614,Philip Miller,82,87,47,71,287,B,81,5,1,Bachelor,High,"[32, 38, 77, 32]",Kinesthetic,0
+615,Randy Irwin,64,54,62,61,241,B,88,2,1,High School,Middle,"[80, 57, 68, 31]",Visual,1
+616,Mr. Gregory Day,79,72,95,74,320,A,82,5,0,Doctorate,High,"[73, 34, 75, 82]",Visual,0
+617,Jeffrey Jones,72,95,80,81,328,A,89,4,0,Doctorate,High,"[31, 38, 53, 57]",Auditory,0
+618,Cheryl Ferguson,81,53,72,71,277,B,76,2,1,Bachelor,Middle,"[31, 31, 36, 86]",Kinesthetic,0
+619,Michelle Schultz,73,81,67,86,307,B,93,2,0,Bachelor,High,"[85, 90, 92, 78]",Auditory,0
+620,Theresa Flores,65,85,71,80,301,B,77,4,0,High School,Middle,"[93, 91, 55, 84]",Visual,0
+621,Charles James,89,79,71,79,318,B,77,3,1,Bachelor,Low,"[95, 46, 92, 68]",Auditory,1
+622,Rhonda Pierce,77,65,33,70,245,B,74,1,1,Doctorate,Middle,"[40, 59, 65, 70]",Auditory,0
+623,Amanda Munoz,78,66,76,95,315,B,100,4,1,Bachelor,High,"[74, 32, 66, 76]",Visual,1
+624,Robert Meyers,74,73,85,87,319,B,83,3,0,High School,Low,"[69, 35, 74, 68]",Visual,1
+625,Ronald Graham,91,65,89,77,322,A,73,4,1,Bachelor,Low,"[57, 90, 46, 81]",Kinesthetic,0
+626,Dr. Gina Velasquez,83,69,78,79,309,B,78,1,0,High School,High,"[32, 52, 92, 75]",Auditory,1
+627,Jeffrey Lester,95,66,92,70,323,A,94,3,0,Bachelor,Low,"[92, 58, 63, 90]",Auditory,1
+628,Kelly Martin,77,77,73,47,274,B,78,5,0,Doctorate,Low,"[42, 77, 71, 58]",Visual,0
+629,Jermaine Brown,78,60,82,82,302,B,97,4,0,Doctorate,Middle,"[67, 40, 52, 66]",Auditory,1
+630,Clinton Hernandez,91,95,74,85,345,A,83,4,1,Master,Middle,"[56, 41, 31, 74]",Visual,1
+631,Anthony Williams,72,74,56,93,295,B,78,3,1,Doctorate,Middle,"[62, 41, 54, 37]",Auditory,0
+632,Ashlee Garza,72,70,67,58,267,B,99,3,0,Bachelor,High,"[36, 84, 83, 83]",Visual,1
+633,Wyatt Walters,92,51,27,82,252,B,70,2,0,Doctorate,High,"[35, 53, 84, 33]",Kinesthetic,1
+634,Donald Kirk,82,60,55,70,267,B,82,3,0,High School,Low,"[75, 84, 70, 82]",Auditory,0
+635,James Adams,80,85,56,80,301,B,85,4,0,Master,High,"[50, 33, 88, 68]",Visual,0
+636,Joseph Raymond,75,64,74,61,274,B,99,4,0,Doctorate,Middle,"[86, 49, 69, 62]",Visual,0
+637,Jennifer Reid,82,61,81,79,303,B,78,5,0,High School,Middle,"[75, 78, 67, 87]",Auditory,0
+638,Yesenia Ryan,65,75,81,58,279,B,83,2,0,Bachelor,Low,"[76, 50, 83, 53]",Visual,0
+639,Linda Patterson,81,73,56,95,305,B,71,2,0,Doctorate,Low,"[87, 32, 88, 67]",Visual,1
+640,John Davis,87,91,66,69,313,B,87,4,1,High School,Middle,"[90, 89, 45, 44]",Visual,1
+641,Joshua Williams,85,63,58,92,298,B,85,1,1,Bachelor,High,"[61, 62, 52, 40]",Kinesthetic,1
+642,Joseph Kim,84,66,36,95,281,B,91,3,0,High School,Low,"[71, 84, 64, 31]",Kinesthetic,1
+643,Jill Jimenez,85,72,62,66,285,B,79,4,1,Master,High,"[73, 85, 88, 82]",Visual,0
+644,Benjamin Snyder,82,73,52,73,280,B,90,4,0,Doctorate,High,"[32, 44, 68, 67]",Visual,1
+645,Martin Chavez,71,83,80,65,299,B,89,5,0,Bachelor,Middle,"[91, 80, 48, 48]",Visual,0
+646,Cheryl Brooks,78,65,56,88,287,B,70,1,1,Bachelor,Low,"[63, 82, 46, 45]",Kinesthetic,1
+647,Howard Hernandez,73,87,47,71,278,B,85,5,0,High School,High,"[47, 30, 32, 31]",Visual,1
+648,Thomas Contreras,91,44,67,48,250,B,83,3,1,Doctorate,High,"[79, 70, 65, 50]",Auditory,0
+649,Rick Collins,86,51,79,67,283,B,74,3,0,Bachelor,Low,"[55, 81, 68, 69]",Visual,1
+650,Elizabeth Martin DDS,72,63,82,82,299,B,93,5,0,Master,Middle,"[45, 69, 63, 94]",Auditory,1
+651,Samantha Smith,85,66,86,94,331,A,73,4,1,Bachelor,Low,"[83, 48, 48, 72]",Kinesthetic,0
+652,Kelsey Medina,76,86,60,74,296,B,70,3,1,High School,High,"[95, 52, 71, 95]",Auditory,0
+653,Brenda Shields,82,93,48,75,298,B,100,3,0,High School,Low,"[64, 74, 93, 53]",Auditory,0
+654,Richard Baker MD,91,43,56,80,270,B,76,5,0,Doctorate,Low,"[48, 47, 72, 57]",Kinesthetic,1
+655,Kevin Ruiz,65,95,95,95,350,A,98,4,0,Master,Middle,"[81, 41, 46, 32]",Visual,1
+656,Brian Zuniga,89,67,85,57,298,B,100,5,1,High School,Low,"[47, 44, 71, 83]",Kinesthetic,0
+657,Janice Torres,78,75,86,60,299,B,81,4,0,Bachelor,High,"[65, 59, 65, 46]",Kinesthetic,1
+658,Linda Hernandez,86,88,95,67,336,A,98,3,0,Bachelor,High,"[52, 86, 87, 61]",Kinesthetic,1
+659,Melanie Thomas,77,93,57,62,289,B,91,1,0,Bachelor,High,"[41, 69, 38, 53]",Visual,0
+660,Stacey Oliver,90,86,59,80,315,B,83,3,0,Doctorate,Middle,"[80, 55, 64, 58]",Kinesthetic,1
+661,John Johnson,79,63,90,69,301,B,94,1,0,High School,Middle,"[84, 73, 64, 93]",Auditory,1
+662,Rachael Mills,74,77,57,76,284,B,73,4,0,High School,High,"[51, 64, 42, 87]",Kinesthetic,0
+663,John Martinez,90,87,56,79,312,B,79,4,0,Bachelor,Low,"[46, 59, 55, 89]",Visual,1
+664,Karen Monroe,64,64,57,82,267,B,76,1,0,Master,Low,"[71, 80, 44, 53]",Kinesthetic,1
+665,Anne Johnson,93,67,29,61,250,B,76,4,1,Bachelor,Middle,"[82, 62, 42, 73]",Visual,0
+666,Melissa Cox,74,76,62,82,294,B,71,4,0,High School,Low,"[81, 63, 47, 87]",Auditory,0
+667,Gregory Horn,90,63,54,87,294,B,90,4,1,Doctorate,High,"[66, 50, 48, 80]",Kinesthetic,1
+668,Miss Christine Wright,86,77,48,82,293,B,83,2,0,Master,Middle,"[68, 37, 31, 49]",Auditory,1
+669,Patricia Jones,92,64,55,86,297,B,72,1,0,High School,Middle,"[70, 90, 59, 31]",Auditory,0
+670,Michele Henderson,80,75,45,81,281,B,85,4,0,Doctorate,Middle,"[47, 49, 84, 40]",Visual,0
+671,Joanne Gross,80,65,52,81,278,B,96,2,0,High School,Middle,"[57, 84, 91, 77]",Kinesthetic,0
+672,David Glover,80,92,81,78,331,A,91,5,1,Bachelor,Low,"[35, 51, 53, 82]",Visual,0
+673,Teresa Vargas,68,73,80,77,298,B,94,3,0,Bachelor,Middle,"[85, 74, 92, 95]",Visual,0
+674,Juan Garcia,84,58,79,51,272,B,81,1,0,Bachelor,High,"[34, 92, 35, 57]",Auditory,1
+675,Jeremy Callahan,60,68,56,82,266,B,95,1,1,Bachelor,High,"[73, 85, 48, 51]",Visual,0
+676,Robert Haley,86,91,80,79,336,A,85,2,0,Master,Low,"[81, 39, 79, 79]",Kinesthetic,1
+677,Carrie Mitchell,78,65,65,80,288,B,74,2,1,Master,High,"[32, 36, 70, 75]",Visual,1
+678,Melanie Roberts,85,76,45,93,299,B,71,5,0,Bachelor,Low,"[73, 76, 80, 83]",Auditory,1
+679,Jason Day,71,84,82,69,306,B,87,1,0,Bachelor,Middle,"[34, 58, 31, 73]",Auditory,0
+680,Justin Rodriguez,86,61,74,58,279,B,75,3,0,Master,Middle,"[67, 51, 82, 65]",Kinesthetic,0
+681,Maurice Robertson,95,82,55,85,317,B,70,2,1,Doctorate,Low,"[60, 95, 81, 30]",Auditory,0
+682,David Mckinney,81,84,61,95,321,A,84,2,0,High School,Middle,"[94, 47, 55, 74]",Kinesthetic,1
+683,Krista Bishop,88,92,56,70,306,B,75,2,0,High School,High,"[38, 49, 56, 46]",Auditory,0
+684,Carlos Rhodes,75,64,46,84,269,B,77,3,1,High School,High,"[43, 43, 94, 93]",Kinesthetic,0
+685,Kimberly Petty,77,72,45,67,261,B,93,5,0,High School,High,"[84, 33, 88, 89]",Kinesthetic,0
+686,Darren Hernandez,65,61,38,70,234,C,88,1,0,High School,Low,"[35, 38, 86, 53]",Visual,1
+687,James Reed,76,89,84,57,306,B,90,1,1,High School,Low,"[80, 34, 74, 74]",Kinesthetic,0
+688,Dana Lawson,63,68,67,87,285,B,75,2,1,Master,Low,"[61, 83, 72, 69]",Visual,1
+689,Pamela Robinson,69,92,15,56,232,C,97,2,1,Doctorate,Middle,"[51, 71, 63, 83]",Visual,0
+690,Dale Sanchez,88,85,73,84,330,A,83,5,1,Master,High,"[84, 90, 36, 90]",Visual,0
+691,Allison Briggs,95,43,65,95,298,B,86,2,1,Master,Middle,"[36, 78, 77, 71]",Visual,1
+692,Deanna Morris,72,82,43,87,284,B,74,1,0,Master,Low,"[43, 59, 74, 72]",Visual,0
+693,Randy Hill,60,78,60,61,259,B,86,5,1,Bachelor,High,"[61, 47, 32, 84]",Kinesthetic,0
+694,Jessica Munoz,59,63,45,61,228,C,84,4,1,Master,High,"[89, 64, 33, 86]",Visual,0
+695,Alisha Woods,95,66,57,88,306,B,73,3,0,High School,Low,"[62, 55, 49, 82]",Visual,0
+696,Jeremy Black,91,77,63,73,304,B,73,5,0,High School,Low,"[80, 57, 93, 32]",Auditory,0
+697,Michael Ortiz,92,82,66,83,323,A,73,1,1,Master,Middle,"[80, 55, 37, 52]",Auditory,0
+698,Amanda Patton,84,60,46,79,269,B,96,4,0,Doctorate,Middle,"[44, 65, 75, 55]",Visual,1
+699,Victoria Ayala,76,79,54,76,285,B,86,2,0,Master,Low,"[59, 72, 43, 90]",Auditory,0
+700,April Torres,81,70,91,71,313,B,99,4,1,Master,Low,"[73, 42, 92, 45]",Auditory,1
+701,Mark Hays,81,52,56,67,256,B,71,3,0,Bachelor,Low,"[62, 58, 53, 75]",Visual,1
+702,Daniel Griffith,82,72,57,74,285,B,96,1,1,Bachelor,Middle,"[92, 78, 82, 81]",Auditory,0
+703,Sarah Hahn,83,91,57,68,299,B,88,2,1,Doctorate,Low,"[80, 79, 37, 50]",Visual,0
+704,Jennifer Colon PhD,81,62,65,74,282,B,82,2,1,Master,Low,"[65, 49, 30, 84]",Auditory,0
+705,Andrew Hill,75,72,69,71,287,B,82,3,1,Doctorate,Middle,"[43, 41, 30, 49]",Auditory,0
+706,Andrew Mathews,76,73,63,61,273,B,71,5,1,Master,Middle,"[46, 89, 69, 85]",Visual,1
+707,Taylor Singleton,88,67,34,73,262,B,76,4,1,Bachelor,Low,"[91, 41, 74, 84]",Auditory,1
+708,Tammy Campbell DVM,71,62,42,76,251,B,85,1,1,Bachelor,Low,"[95, 54, 48, 40]",Visual,0
+709,Ashley Flores,78,88,75,74,315,B,95,3,0,High School,Low,"[39, 73, 32, 64]",Kinesthetic,0
+710,Ashley Jones,72,48,50,91,261,B,96,2,0,High School,Low,"[77, 85, 51, 86]",Visual,0
+711,Krista Herrera,70,72,48,80,270,B,95,5,0,Bachelor,Middle,"[31, 80, 30, 38]",Auditory,0
+712,Jonathan Mitchell,88,84,49,62,283,B,96,5,0,High School,High,"[32, 32, 92, 86]",Auditory,0
+713,Brent Ray,61,90,64,77,292,B,76,2,0,High School,Low,"[65, 81, 52, 77]",Visual,0
+714,Donald Dixon,87,62,71,55,275,B,99,4,1,Master,Middle,"[75, 68, 79, 84]",Kinesthetic,1
+715,George Mueller,73,55,74,79,281,B,98,2,0,High School,Low,"[77, 90, 51, 55]",Auditory,1
+716,Michael Harris,79,86,54,69,288,B,88,3,0,Doctorate,Low,"[73, 92, 69, 55]",Kinesthetic,1
+717,Jeffrey Torres,85,68,48,73,274,B,77,5,1,High School,Middle,"[95, 56, 68, 51]",Kinesthetic,1
+718,Jeffrey Mcguire,95,93,31,65,284,B,80,5,1,Master,Low,"[30, 52, 76, 69]",Kinesthetic,1
+719,Tara Rodriguez,88,74,75,71,308,B,86,5,0,Master,Low,"[66, 61, 88, 61]",Auditory,0
+720,Michelle Sandoval,75,83,55,76,289,B,87,5,0,Bachelor,Low,"[37, 93, 89, 94]",Kinesthetic,1
+721,Tanya Miller,82,45,66,69,262,B,76,3,1,Bachelor,High,"[66, 88, 93, 40]",Visual,0
+722,Ashley Gray,78,70,53,81,282,B,88,1,0,Doctorate,Middle,"[85, 75, 76, 42]",Visual,0
+723,Jason Butler,95,51,77,76,299,B,90,1,0,Bachelor,High,"[46, 69, 77, 53]",Visual,0
+724,Cody Townsend,71,74,63,82,290,B,90,1,1,Bachelor,Low,"[72, 59, 33, 65]",Visual,1
+725,Thomas Butler,84,54,62,74,274,B,73,4,1,Master,Low,"[54, 83, 47, 44]",Auditory,0
+726,Stephanie Garcia,90,78,72,69,309,B,86,4,1,High School,Middle,"[69, 52, 67, 89]",Visual,1
+727,Steve Ferguson,86,70,66,80,302,B,100,1,1,Doctorate,Low,"[79, 41, 91, 89]",Visual,0
+728,Dale Delacruz,82,87,52,76,297,B,91,5,1,High School,Middle,"[82, 78, 56, 37]",Visual,1
+729,Jasmine Phillips,72,84,52,88,296,B,94,1,0,Bachelor,Middle,"[70, 66, 85, 77]",Kinesthetic,1
+730,Gregory Carr,89,88,54,73,304,B,87,2,0,Doctorate,Middle,"[39, 78, 78, 39]",Kinesthetic,0
+731,Amanda Rodriguez,73,68,69,72,282,B,83,4,0,High School,Low,"[78, 73, 46, 46]",Visual,0
+732,Billy Jefferson,90,40,83,77,290,B,78,1,0,High School,High,"[37, 76, 49, 90]",Visual,1
+733,Jennifer Soto,84,72,28,86,270,B,90,3,0,Bachelor,Low,"[39, 51, 58, 42]",Auditory,1
+734,Brian Hicks,82,79,39,71,271,B,96,5,1,Master,Middle,"[82, 67, 73, 39]",Auditory,0
+735,Becky Hoffman,60,48,63,45,216,C,82,2,1,Master,Low,"[42, 44, 72, 72]",Kinesthetic,0
+736,Allison Cooper,66,54,45,56,221,C,82,5,1,High School,Middle,"[52, 41, 45, 44]",Visual,1
+737,Thomas Reed,81,93,73,80,327,A,92,3,1,Master,High,"[72, 70, 80, 83]",Kinesthetic,1
+738,Todd Sharp DDS,75,67,47,85,274,B,87,1,1,Bachelor,High,"[87, 94, 70, 46]",Auditory,0
+739,Michael Williams DDS,86,63,77,64,290,B,73,1,0,High School,Low,"[85, 38, 74, 78]",Kinesthetic,0
+740,Tammy Horn,72,41,59,90,262,B,79,5,0,Bachelor,Low,"[34, 80, 76, 47]",Visual,1
+741,Christine Lewis,68,43,66,71,248,B,70,2,1,Master,Low,"[61, 79, 62, 56]",Visual,0
+742,Andrea Robinson,68,58,59,83,268,B,81,2,1,Master,Middle,"[64, 93, 32, 65]",Auditory,1
+743,Andrew Anderson,78,41,59,68,246,B,90,4,0,High School,Middle,"[57, 38, 81, 83]",Visual,0
+744,Matthew Avila,89,73,70,85,317,B,100,5,1,Master,Low,"[41, 33, 35, 41]",Visual,1
+745,Brett Webster,86,57,79,42,264,B,90,4,0,High School,Middle,"[39, 71, 52, 77]",Visual,0
+746,Mark Herring,88,76,95,71,330,A,88,3,1,Bachelor,Low,"[92, 81, 90, 93]",Auditory,0
+747,Amanda Johnson,85,86,70,62,303,B,92,3,1,Bachelor,Middle,"[82, 89, 81, 62]",Visual,1
+748,Gregory Jones,62,42,73,62,239,C,73,4,1,Bachelor,Middle,"[37, 69, 38, 49]",Kinesthetic,0
+749,Joseph Williams,80,74,66,95,315,B,70,5,0,High School,Middle,"[75, 41, 49, 80]",Auditory,1
+750,Anthony Valenzuela,85,58,74,82,299,B,78,4,0,High School,High,"[91, 48, 54, 77]",Auditory,0
+751,Miss Amanda Palmer DVM,95,63,95,59,312,B,100,5,0,Master,Middle,"[32, 50, 87, 35]",Kinesthetic,0
+752,Brenda Miller,93,71,40,62,266,B,97,1,1,Master,Low,"[42, 80, 43, 74]",Auditory,0
+753,Daniel Fernandez,85,68,95,51,299,B,88,3,1,Bachelor,High,"[78, 66, 40, 82]",Visual,0
+754,Justin Robinson,78,57,63,85,283,B,91,4,1,High School,High,"[37, 95, 36, 38]",Auditory,1
+755,Christopher Austin,69,64,84,95,312,B,82,3,1,Bachelor,Low,"[30, 67, 57, 37]",Kinesthetic,0
+756,Jeffrey Morgan,95,80,58,57,290,B,84,4,1,Master,Low,"[35, 46, 42, 51]",Kinesthetic,0
+757,Colleen Bonilla,92,77,76,83,328,A,91,1,1,High School,High,"[71, 77, 45, 40]",Visual,0
+758,Dalton Mccarty,74,68,42,92,276,B,80,3,0,Bachelor,High,"[94, 87, 47, 77]",Auditory,1
+759,Timothy Li,87,55,78,90,310,B,91,2,0,Doctorate,Middle,"[84, 49, 94, 46]",Kinesthetic,1
+760,Angela Johnson,75,56,76,86,293,B,87,2,0,High School,Low,"[60, 52, 35, 60]",Visual,1
+761,Kendra Powell,79,63,49,57,248,B,99,5,0,Doctorate,Middle,"[43, 85, 68, 76]",Auditory,1
+762,Andrew Hester,93,63,95,80,331,A,81,5,0,Master,Low,"[35, 40, 84, 84]",Auditory,1
+763,James May,65,71,92,86,314,B,72,4,1,Doctorate,Middle,"[32, 76, 60, 43]",Kinesthetic,1
+764,Shannon Hudson,69,66,95,81,311,B,86,4,1,Master,Low,"[59, 36, 51, 40]",Auditory,1
+765,Leslie Holt,81,62,87,69,299,B,94,4,0,High School,High,"[73, 33, 30, 36]",Kinesthetic,1
+766,Kevin Silva,82,95,76,74,327,A,94,1,0,Master,Middle,"[71, 74, 85, 82]",Kinesthetic,0
+767,Sheryl Alexander,77,95,55,70,297,B,81,4,0,High School,Middle,"[58, 89, 46, 60]",Kinesthetic,1
+768,Kelsey Rojas,65,81,74,73,293,B,99,3,1,Doctorate,Middle,"[48, 94, 62, 30]",Kinesthetic,0
+769,Alyssa Davis,86,84,80,58,308,B,100,1,1,Bachelor,Middle,"[67, 94, 64, 74]",Visual,0
+770,Elizabeth Reid,77,54,81,79,291,B,71,1,0,High School,Low,"[85, 75, 65, 78]",Auditory,0
+771,Kelly Thompson,83,56,54,73,266,B,89,5,1,Master,Low,"[92, 38, 47, 51]",Kinesthetic,1
+772,Shannon Williamson,62,69,95,76,302,B,93,2,1,Bachelor,Middle,"[60, 36, 59, 63]",Kinesthetic,1
+773,Yvonne Conner,69,89,89,79,326,A,96,3,0,High School,Low,"[87, 81, 39, 78]",Kinesthetic,0
+774,Tina Ward,95,95,67,66,323,A,73,2,0,High School,Low,"[54, 76, 90, 52]",Auditory,0
+775,Ashley Sosa,69,55,12,74,210,C,97,2,1,Bachelor,Middle,"[71, 39, 85, 42]",Visual,1
+776,Jessica Serrano,87,54,65,80,286,B,72,5,0,Master,High,"[75, 60, 86, 58]",Auditory,0
+777,Joe Diaz,84,83,81,92,340,A,71,3,1,High School,Middle,"[55, 72, 71, 68]",Visual,0
+778,Megan Flynn,72,40,68,77,257,B,73,3,1,Bachelor,High,"[43, 85, 86, 52]",Kinesthetic,1
+779,Justin Gross,79,51,20,75,225,C,97,5,1,Doctorate,Low,"[36, 92, 83, 62]",Visual,0
+780,Sara Ferguson,91,71,54,47,263,B,75,5,0,Bachelor,High,"[59, 42, 43, 36]",Auditory,0
+781,Marisa Elliott,53,81,48,65,247,B,80,5,1,Bachelor,Middle,"[49, 44, 87, 59]",Kinesthetic,1
+782,Donna Wilson,67,57,70,54,248,B,73,4,1,Bachelor,Low,"[95, 36, 46, 89]",Visual,0
+783,Christine Green,86,46,50,45,227,C,82,3,1,Bachelor,Middle,"[53, 85, 30, 83]",Kinesthetic,1
+784,Russell Morales,95,80,44,69,288,B,75,1,0,Master,Low,"[53, 73, 55, 37]",Auditory,1
+785,Jordan Nunez,78,85,91,71,325,A,90,3,0,Doctorate,Low,"[50, 83, 70, 46]",Auditory,0
+786,Roger Calderon,75,93,58,77,303,B,71,5,0,Bachelor,Middle,"[63, 61, 67, 50]",Kinesthetic,0
+787,Frances Murphy,81,69,95,65,310,B,76,5,1,Bachelor,Middle,"[65, 30, 47, 37]",Auditory,1
+788,Angel Duran DDS,66,79,62,73,280,B,99,3,0,Master,Middle,"[92, 76, 53, 43]",Kinesthetic,1
+789,John Warner,71,72,58,79,280,B,88,3,1,Doctorate,High,"[47, 39, 56, 43]",Auditory,0
+790,Steven Mccarty,76,61,76,78,291,B,79,1,1,High School,Middle,"[71, 84, 87, 34]",Auditory,1
+791,Dr. Jacob Gordon,93,57,25,73,248,B,72,1,0,Bachelor,Middle,"[92, 78, 63, 43]",Auditory,0
+792,Michael Kim,95,75,78,53,301,B,90,4,1,High School,High,"[44, 57, 46, 89]",Kinesthetic,1
+793,Joseph Banks,91,75,53,93,312,B,74,5,1,Master,High,"[60, 95, 43, 83]",Auditory,0
+794,Mr. Thomas Jackson,90,57,58,77,282,B,89,3,0,High School,Low,"[56, 63, 37, 76]",Auditory,0
+795,Nicholas Elliott,87,87,72,69,315,B,98,3,1,Master,High,"[36, 85, 80, 81]",Visual,1
+796,Carol Richard,54,89,63,74,280,B,92,4,0,Bachelor,High,"[91, 88, 41, 79]",Kinesthetic,0
+797,Nicholas Johnson,95,84,43,89,311,B,81,2,0,Doctorate,High,"[60, 56, 59, 92]",Visual,1
+798,Kyle Martinez,89,71,41,69,270,B,82,3,0,Bachelor,Middle,"[31, 65, 93, 75]",Kinesthetic,1
+799,Tammy Reyes,71,79,77,67,294,B,76,1,0,High School,Low,"[82, 48, 56, 30]",Kinesthetic,0
+800,Kerry Lucas,77,77,30,81,265,B,80,3,1,Bachelor,Middle,"[94, 72, 76, 40]",Auditory,1
+801,Steven Walker,83,70,61,72,286,B,70,5,1,Doctorate,Low,"[30, 32, 62, 83]",Kinesthetic,0
+802,Stephen Burnett,73,84,65,75,297,B,86,3,0,Bachelor,Middle,"[35, 80, 53, 44]",Auditory,1
+803,April Dalton,82,74,63,83,302,B,89,3,0,Doctorate,Low,"[33, 66, 61, 52]",Kinesthetic,1
+804,Jill Watkins,72,83,41,65,261,B,86,5,0,Doctorate,Low,"[43, 94, 31, 73]",Auditory,1
+805,Jennifer Meadows,78,42,71,67,258,B,85,3,1,Bachelor,Middle,"[31, 69, 80, 67]",Auditory,1
+806,Kenneth Bell,83,92,68,62,305,B,71,1,0,Master,Middle,"[51, 46, 74, 58]",Auditory,0
+807,Teresa Smith,76,54,77,67,274,B,90,4,1,High School,Middle,"[44, 69, 80, 71]",Visual,1
+808,Gabriel Baker,84,87,71,68,310,B,77,2,0,High School,Middle,"[61, 84, 77, 63]",Visual,1
+809,Julie Henderson,70,54,62,81,267,B,79,5,0,Master,Low,"[85, 49, 56, 95]",Visual,1
+810,Kerry Coffey,77,74,45,84,280,B,71,2,0,Doctorate,Middle,"[88, 95, 82, 42]",Auditory,0
+811,Christopher Delacruz,82,60,48,90,280,B,73,5,1,Bachelor,Low,"[31, 45, 64, 65]",Auditory,0
+812,Amanda Jackson,84,55,61,69,269,B,85,1,0,Bachelor,Middle,"[48, 91, 81, 75]",Auditory,0
+813,Jessica Sims,71,91,57,72,291,B,91,5,1,Master,High,"[83, 35, 94, 73]",Kinesthetic,1
+814,Cheryl Lopez,73,39,20,60,192,C,98,1,1,High School,Low,"[35, 66, 61, 59]",Auditory,0
+815,Robert Osborne,83,61,59,64,267,B,79,3,0,High School,Low,"[46, 93, 32, 42]",Kinesthetic,1
+816,Dr. Elizabeth Gomez DVM,72,68,55,72,267,B,89,1,1,High School,Middle,"[76, 41, 43, 50]",Auditory,1
+817,Joshua Davies,95,81,68,77,321,A,75,3,1,High School,High,"[61, 32, 82, 95]",Kinesthetic,1
+818,Brenda Williams,75,22,82,94,273,B,76,1,0,High School,High,"[70, 93, 56, 41]",Visual,1
+819,Matthew Park,81,64,64,65,274,B,88,3,1,High School,Low,"[74, 40, 80, 93]",Visual,0
+820,Karen Robinson,70,67,30,95,262,B,85,5,1,Bachelor,Middle,"[53, 94, 92, 84]",Kinesthetic,0
+821,Ray Newman,79,60,63,65,267,B,98,5,1,Master,Low,"[42, 75, 42, 84]",Visual,0
+822,Daniel Mendoza,62,66,73,69,270,B,74,1,1,Master,High,"[65, 81, 66, 67]",Visual,1
+823,Mrs. Debra King DVM,75,64,45,65,249,B,86,4,0,Doctorate,Middle,"[80, 35, 68, 62]",Visual,1
+824,Olivia Moore,87,73,51,78,289,B,100,4,0,Doctorate,Low,"[68, 37, 68, 40]",Visual,1
+825,Nicole Bradford,95,66,32,73,266,B,79,4,0,Master,Low,"[82, 33, 75, 60]",Auditory,0
+826,Joseph Benjamin,83,55,61,78,277,B,93,2,0,High School,Middle,"[77, 40, 87, 54]",Visual,1
+827,Jessica Hodges,91,44,90,84,309,B,80,1,0,Bachelor,Low,"[79, 83, 45, 37]",Visual,0
+828,Rebecca Martin,90,86,85,94,355,A,78,1,1,High School,Low,"[70, 66, 72, 93]",Kinesthetic,0
+829,Kayla Wilson,87,95,60,73,315,B,82,5,0,Master,Middle,"[30, 47, 48, 47]",Kinesthetic,0
+830,Eric Jones,86,70,46,94,296,B,90,2,0,Bachelor,High,"[67, 42, 63, 43]",Visual,1
+831,Mr. Jesse Ellis,95,33,53,93,274,B,83,5,1,High School,Low,"[41, 88, 80, 87]",Kinesthetic,0
+832,Brandon Burch,83,82,93,62,320,A,71,3,0,Bachelor,Low,"[51, 72, 76, 51]",Kinesthetic,1
+833,Melanie Ellis,69,70,90,70,299,B,93,1,0,High School,Low,"[59, 66, 76, 70]",Auditory,1
+834,Philip Kelly,80,68,67,94,309,B,77,5,1,Master,Middle,"[55, 63, 92, 33]",Visual,1
+835,Rachel Mclean,74,63,94,89,320,A,74,2,0,Master,Middle,"[36, 69, 85, 72]",Kinesthetic,0
+836,Tom Dyer MD,82,85,46,69,282,B,82,3,1,High School,Low,"[74, 35, 79, 87]",Visual,1
+837,Timothy Martin,81,61,95,59,296,B,100,5,1,High School,Middle,"[55, 82, 84, 63]",Visual,0
+838,Debra Kirk,88,30,65,56,239,C,83,4,1,Bachelor,High,"[88, 79, 68, 70]",Auditory,0
+839,Charlene Allen,72,57,63,62,254,B,74,4,0,Master,Low,"[78, 93, 94, 82]",Kinesthetic,0
+840,Herbert Benitez,81,95,69,73,318,B,89,3,0,Doctorate,Middle,"[63, 89, 78, 91]",Visual,1
+841,Troy Harrington,71,46,30,72,219,C,75,2,1,Master,Middle,"[91, 38, 74, 46]",Auditory,0
+842,Danny Gray,77,74,67,88,306,B,91,2,1,Bachelor,High,"[66, 74, 55, 94]",Auditory,1
+843,Ashley Petersen,79,65,76,62,282,B,71,2,0,Bachelor,Low,"[34, 67, 37, 78]",Kinesthetic,1
+844,Ronald Martinez,95,92,70,47,304,B,95,2,1,Master,Low,"[61, 33, 49, 83]",Visual,0
+845,Timothy Stanton,94,83,63,61,301,B,95,3,1,Master,Middle,"[38, 88, 52, 56]",Visual,0
+846,Tiffany Abbott,59,48,47,82,236,C,99,2,1,High School,High,"[78, 92, 95, 31]",Kinesthetic,1
+847,Deborah Taylor,92,52,30,74,248,B,79,4,0,High School,Middle,"[36, 52, 89, 90]",Visual,1
+848,Melinda Brown,87,95,70,81,333,A,73,1,0,Master,High,"[60, 75, 63, 73]",Visual,1
+849,Brenda Carroll,86,68,79,73,306,B,87,3,1,Master,Low,"[77, 57, 62, 82]",Kinesthetic,1
+850,Mallory Rodriguez,90,88,21,90,289,B,86,4,0,High School,High,"[89, 44, 49, 72]",Auditory,0
+851,Jennifer Dodson,95,66,39,57,257,B,100,5,1,High School,Middle,"[65, 64, 31, 68]",Auditory,1
+852,Felicia Hill,69,56,82,94,301,B,74,5,0,High School,Middle,"[77, 92, 59, 56]",Kinesthetic,0
+853,Lauren Doyle,83,64,46,95,288,B,75,3,0,Bachelor,Low,"[71, 72, 75, 91]",Visual,1
+854,Keith Johnson,80,82,54,66,282,B,79,1,0,Master,Middle,"[54, 46, 68, 86]",Kinesthetic,0
+855,Mr. Luis Stout,74,71,95,52,292,B,100,5,1,Master,Low,"[80, 56, 91, 77]",Kinesthetic,1
+856,Larry Kim,70,93,79,71,313,B,76,2,1,Doctorate,High,"[46, 40, 39, 86]",Auditory,0
+857,Katie Donaldson,89,82,60,66,297,B,99,1,1,High School,Low,"[67, 70, 81, 84]",Visual,1
+858,Joseph Smith,69,57,62,57,245,B,84,1,0,Bachelor,Low,"[60, 74, 46, 56]",Visual,0
+859,Kevin Hurley,82,49,62,86,279,B,77,1,0,Master,Middle,"[31, 78, 41, 57]",Kinesthetic,1
+860,William Green,69,90,77,88,324,A,95,4,1,Doctorate,Middle,"[88, 45, 73, 66]",Visual,1
+861,Patrick Maxwell,95,61,57,86,299,B,72,3,0,Doctorate,High,"[36, 76, 32, 39]",Auditory,1
+862,Joanna Hutchinson,71,46,47,76,240,B,82,2,1,Doctorate,Middle,"[62, 93, 92, 77]",Kinesthetic,1
+863,Crystal Mills,73,93,76,66,308,B,89,3,0,Bachelor,High,"[84, 47, 38, 47]",Visual,1
+864,Lisa King,72,68,74,80,294,B,91,3,0,Master,Middle,"[45, 30, 36, 95]",Kinesthetic,0
+865,Mathew Russell,78,47,47,87,259,B,82,4,1,High School,High,"[57, 67, 74, 76]",Visual,0
+866,Melissa Miller,87,55,73,76,291,B,98,1,0,High School,High,"[44, 53, 82, 34]",Kinesthetic,0
+867,Julie Hendricks,92,60,73,74,299,B,91,5,0,Doctorate,Middle,"[68, 36, 84, 77]",Auditory,1
+868,Christopher Davis,85,64,61,63,273,B,94,1,1,Bachelor,Middle,"[31, 85, 86, 31]",Auditory,0
+869,Jessica Peters,95,48,28,95,266,B,92,3,0,Doctorate,High,"[81, 32, 93, 74]",Kinesthetic,0
+870,James Vargas,86,71,64,72,293,B,83,1,0,Doctorate,High,"[91, 34, 83, 85]",Kinesthetic,0
+871,Jason Dean,86,79,46,91,302,B,78,3,0,Bachelor,Middle,"[64, 62, 47, 46]",Kinesthetic,1
+872,Dennis Elliott,83,55,82,55,275,B,91,5,1,Bachelor,High,"[89, 53, 76, 67]",Kinesthetic,1
+873,Tyler Rogers,67,91,79,80,317,B,85,5,0,Doctorate,High,"[87, 83, 49, 60]",Auditory,0
+874,John Fitzpatrick,68,91,51,80,290,B,98,2,1,Doctorate,Middle,"[36, 63, 92, 60]",Auditory,0
+875,Bryan Dawson,86,80,62,84,312,B,94,4,0,Master,Low,"[90, 48, 51, 50]",Visual,0
+876,Michelle Chapman,95,81,42,64,282,B,78,1,1,Doctorate,Low,"[63, 83, 89, 57]",Kinesthetic,0
+877,Edward Peterson,73,91,61,52,277,B,90,4,0,Bachelor,High,"[55, 33, 69, 64]",Visual,0
+878,Todd Craig,76,81,48,70,275,B,73,1,1,Bachelor,High,"[33, 42, 92, 92]",Visual,1
+879,Carol Thomas,65,85,95,56,301,B,73,5,0,High School,Low,"[77, 51, 63, 92]",Visual,1
+880,Nathan Castillo,73,85,63,84,305,B,83,4,1,Bachelor,High,"[80, 45, 48, 30]",Kinesthetic,1
+881,Kimberly Kelley,95,42,89,85,311,B,80,3,0,Doctorate,High,"[30, 80, 77, 57]",Auditory,0
+882,Randall Cole,87,53,29,88,257,B,77,4,1,Bachelor,Low,"[35, 83, 69, 91]",Kinesthetic,0
+883,Pamela Roberts,81,66,37,72,256,B,82,4,0,Master,Middle,"[31, 43, 76, 65]",Kinesthetic,0
+884,Paul Peterson,79,63,25,59,226,C,85,5,0,Bachelor,High,"[68, 74, 89, 34]",Auditory,0
+885,Scott Jackson,77,84,87,78,326,A,83,4,1,Bachelor,Low,"[56, 74, 84, 44]",Kinesthetic,1
+886,Michael Beasley,95,64,92,69,320,A,86,2,0,Master,Low,"[71, 90, 83, 62]",Kinesthetic,0
+887,Travis Moore,85,71,50,86,292,B,72,3,0,High School,Low,"[94, 71, 57, 67]",Visual,1
+888,Alec Adams,71,56,54,77,258,B,90,5,0,High School,Low,"[51, 75, 63, 53]",Visual,0
+889,Heather King,80,88,79,72,319,B,85,1,1,Master,Middle,"[36, 44, 64, 82]",Kinesthetic,0
+890,Raymond Chambers,73,75,50,61,259,B,87,4,0,Doctorate,High,"[53, 57, 30, 54]",Kinesthetic,0
+891,Stephen Thompson,59,75,54,70,258,B,70,4,1,Bachelor,Middle,"[86, 80, 36, 45]",Auditory,1
+892,Sharon Gonzalez,61,34,29,84,208,C,78,3,1,Master,High,"[48, 94, 62, 65]",Visual,0
+893,Cynthia Guerra,81,56,67,79,283,B,80,2,1,Master,Low,"[88, 84, 60, 64]",Visual,1
+894,Emily Huff,90,90,55,58,293,B,70,4,1,Master,Middle,"[79, 66, 78, 41]",Auditory,0
+895,Mark Fitzpatrick,72,67,95,71,305,B,76,2,1,Master,Middle,"[39, 51, 89, 48]",Kinesthetic,1
+896,Joy Lee,79,83,95,85,342,A,90,2,1,High School,High,"[81, 70, 32, 65]",Auditory,0
+897,Tara Cunningham,69,71,40,79,259,B,92,5,0,Doctorate,High,"[65, 82, 86, 48]",Visual,0
+898,Alexandria Williams,69,70,95,63,297,B,75,4,0,High School,Middle,"[85, 83, 60, 41]",Auditory,1
+899,Susan Perez,90,71,75,80,316,B,88,2,0,Doctorate,Middle,"[38, 32, 65, 67]",Visual,1
+900,Zachary Montgomery,78,65,65,81,289,B,72,4,1,Bachelor,Middle,"[92, 52, 70, 55]",Auditory,1
+901,Elaine Santiago,70,71,91,71,303,B,100,5,0,Bachelor,Middle,"[67, 95, 50, 41]",Auditory,1
+902,Erin Young,94,67,65,60,286,B,78,5,0,Doctorate,High,"[59, 77, 52, 31]",Auditory,1
+903,Jennifer Turner,62,71,28,84,245,B,99,1,0,High School,High,"[31, 42, 48, 41]",Kinesthetic,1
+904,Carolyn Carson,81,46,73,63,263,B,77,1,0,High School,High,"[89, 71, 65, 67]",Auditory,0
+905,Miss Melanie Vargas,66,43,87,88,284,B,93,4,1,Doctorate,High,"[31, 56, 78, 34]",Kinesthetic,0
+906,Jonathan Andrews,82,78,86,76,322,A,77,1,0,Master,Middle,"[73, 42, 68, 34]",Kinesthetic,1
+907,Jessica Hunter,84,58,81,69,292,B,84,2,1,High School,High,"[61, 83, 89, 71]",Kinesthetic,0
+908,Robert Schneider,83,80,70,72,305,B,93,4,1,Bachelor,Low,"[42, 59, 75, 81]",Auditory,0
+909,Linda Bird,85,55,95,83,318,B,88,4,0,High School,Low,"[36, 86, 85, 78]",Kinesthetic,0
+910,Dawn Patterson,95,67,69,70,301,B,88,3,0,Bachelor,Low,"[93, 82, 46, 43]",Kinesthetic,0
+911,Cynthia Turner,65,65,75,84,289,B,99,3,0,Master,High,"[76, 51, 81, 47]",Auditory,1
+912,Corey Rojas,95,60,93,71,319,B,79,2,1,Master,High,"[33, 48, 33, 81]",Visual,0
+913,Amanda Moore,82,66,56,73,277,B,72,4,1,High School,Low,"[94, 93, 55, 59]",Visual,1
+914,Raymond Hunter,62,65,78,79,284,B,98,1,0,High School,High,"[49, 54, 49, 50]",Auditory,1
+915,Mrs. Summer Gonzalez,86,51,45,79,261,B,93,3,1,Master,High,"[74, 57, 94, 51]",Visual,1
+916,Megan Holmes,95,75,81,76,327,A,84,4,0,Master,Middle,"[52, 62, 93, 32]",Auditory,0
+917,Heather Jones,80,75,68,82,305,B,75,1,0,Master,Middle,"[79, 35, 86, 42]",Kinesthetic,1
+918,David Levine,95,90,40,70,295,B,87,2,1,High School,Low,"[66, 84, 90, 67]",Kinesthetic,1
+919,John Bowman,85,65,59,76,285,B,87,5,0,Doctorate,Low,"[74, 73, 94, 86]",Visual,1
+920,Rebecca Hanna,83,41,50,62,236,C,84,3,1,Doctorate,Middle,"[91, 78, 39, 77]",Kinesthetic,1
+921,Todd Mathis,78,95,53,84,310,B,91,3,0,Bachelor,High,"[65, 61, 72, 87]",Kinesthetic,0
+922,Gary Hanson,80,68,52,69,269,B,80,4,1,High School,High,"[38, 87, 34, 76]",Visual,0
+923,Jordan Mathis,79,90,27,63,259,B,82,4,0,Bachelor,High,"[68, 95, 72, 42]",Visual,0
+924,Donald Smith,62,56,82,78,278,B,91,1,1,Master,Middle,"[75, 76, 35, 91]",Kinesthetic,1
+925,Malik Smith Jr.,71,68,70,95,304,B,89,5,1,Doctorate,Middle,"[36, 50, 41, 72]",Visual,1
+926,Kimberly Harris,88,76,71,74,309,B,96,3,1,High School,Middle,"[52, 90, 71, 42]",Visual,0
+927,Susan Caldwell,89,62,87,66,304,B,91,3,0,Doctorate,Middle,"[84, 56, 45, 41]",Kinesthetic,0
+928,Donald Waters,87,56,60,81,284,B,100,2,1,High School,Low,"[34, 78, 36, 42]",Kinesthetic,1
+929,Felicia Combs,74,52,89,79,294,B,77,1,1,Doctorate,High,"[92, 36, 71, 49]",Kinesthetic,1
+930,Marilyn Robinson,66,85,70,70,291,B,77,2,1,Bachelor,Middle,"[37, 45, 56, 41]",Kinesthetic,0
+931,Jennifer Morgan,72,58,90,89,309,B,89,3,0,Doctorate,High,"[78, 75, 34, 84]",Kinesthetic,1
+932,Dylan Martin,68,95,82,91,336,A,74,5,1,Doctorate,High,"[59, 86, 88, 70]",Kinesthetic,1
+933,April Barrera,74,64,67,80,285,B,75,2,0,Bachelor,Low,"[38, 47, 61, 31]",Kinesthetic,0
+934,James Moyer,93,44,59,64,260,B,98,1,0,Doctorate,Low,"[87, 75, 93, 55]",Auditory,1
+935,Patricia Sparks,91,64,61,69,285,B,83,3,1,Doctorate,Middle,"[58, 83, 57, 54]",Visual,1
+936,Anthony Gibson,79,77,71,75,302,B,77,4,0,Master,High,"[54, 88, 41, 50]",Visual,1
+937,John Wolfe,77,79,71,77,304,B,79,4,0,Bachelor,Middle,"[36, 87, 43, 61]",Kinesthetic,1
+938,Joshua Miller,72,61,42,78,253,B,92,2,0,High School,Low,"[88, 54, 50, 32]",Visual,0
+939,Jennifer Young,87,83,84,73,327,A,98,5,1,High School,Low,"[89, 31, 95, 51]",Kinesthetic,1
+940,Norman Baker,77,49,48,77,251,B,81,2,1,Bachelor,Middle,"[54, 57, 69, 30]",Kinesthetic,1
+941,Jennifer Mcintosh,84,81,55,65,285,B,99,1,1,High School,High,"[54, 36, 85, 71]",Auditory,1
+942,Autumn Jones DDS,87,60,82,60,289,B,79,1,1,Bachelor,Middle,"[42, 48, 79, 47]",Visual,1
+943,Sarah Reed,84,51,70,84,289,B,80,2,0,Bachelor,High,"[93, 87, 37, 41]",Kinesthetic,1
+944,Samuel Glenn,72,82,90,61,305,B,82,3,1,Bachelor,High,"[84, 53, 68, 76]",Visual,1
+945,Whitney Baxter,75,65,39,89,268,B,91,4,1,High School,Middle,"[94, 32, 65, 91]",Kinesthetic,0
+946,Briana Vazquez,77,64,81,75,297,B,100,2,1,Bachelor,Middle,"[87, 86, 52, 60]",Kinesthetic,0
+947,Melissa Hernandez,74,85,95,95,349,A,86,1,0,Master,High,"[86, 62, 89, 89]",Auditory,0
+948,Lori Bailey,78,68,79,73,298,B,85,1,0,Master,Middle,"[90, 59, 37, 37]",Kinesthetic,0
+949,Rachel Walton,80,53,66,66,265,B,79,1,0,Doctorate,Low,"[76, 89, 82, 95]",Visual,0
+950,Suzanne Johnson,75,81,69,76,301,B,95,4,0,Doctorate,Low,"[87, 36, 47, 77]",Auditory,1
+951,Jennifer Kelly,85,52,77,79,293,B,81,1,1,Bachelor,Low,"[47, 68, 44, 78]",Kinesthetic,1
+952,Joseph Hunt,74,70,59,69,272,B,99,1,1,High School,Low,"[83, 69, 95, 36]",Auditory,0
+953,Virginia Flowers,79,53,54,81,267,B,88,2,1,High School,Low,"[85, 73, 90, 79]",Auditory,1
+954,Jimmy Ramirez,69,75,75,77,296,B,75,2,0,Master,Middle,"[79, 64, 41, 59]",Kinesthetic,0
+955,Angela Mitchell,85,83,66,80,314,B,81,2,0,High School,High,"[57, 67, 93, 74]",Kinesthetic,1
+956,Adam Roberts,95,74,95,66,330,A,88,2,0,High School,Middle,"[45, 61, 67, 58]",Visual,1
+957,Yolanda Hernandez MD,71,48,35,95,249,B,88,4,1,Bachelor,Middle,"[74, 48, 35, 50]",Kinesthetic,0
+958,Brenda Baker,86,75,66,89,316,B,88,3,1,Bachelor,Low,"[44, 30, 55, 91]",Kinesthetic,1
+959,Fred Bauer,74,59,36,79,248,B,94,3,1,Doctorate,Middle,"[62, 85, 90, 82]",Visual,1
+960,Paul Shah,81,62,56,65,264,B,88,5,1,Bachelor,High,"[51, 79, 46, 93]",Kinesthetic,1
+961,Johnny Eaton,83,60,64,71,278,B,100,4,1,High School,Low,"[83, 55, 57, 92]",Kinesthetic,1
+962,Christian Harris,85,80,79,71,315,B,97,3,1,Bachelor,High,"[55, 41, 77, 88]",Visual,1
+963,Jeffery Hobbs,76,59,59,61,255,B,85,2,0,High School,High,"[68, 78, 41, 60]",Kinesthetic,1
+964,Kyle Thomas,77,69,69,77,292,B,83,4,0,High School,Low,"[30, 95, 50, 36]",Kinesthetic,1
+965,Luis Bradley,78,71,50,73,272,B,98,4,0,High School,Low,"[40, 86, 39, 44]",Kinesthetic,0
+966,Lisa Downs,95,62,67,67,291,B,78,4,0,Bachelor,High,"[59, 87, 59, 89]",Auditory,1
+967,Julie Williams,69,70,64,88,291,B,85,4,1,High School,High,"[83, 84, 67, 56]",Kinesthetic,1
+968,Keith Small,69,65,49,68,251,B,86,3,1,High School,Middle,"[54, 53, 62, 91]",Kinesthetic,0
+969,Gregory Werner,80,76,70,81,307,B,96,5,0,Doctorate,Low,"[56, 36, 60, 43]",Visual,1
+970,Russell Blake,82,67,72,77,298,B,98,4,1,Bachelor,Low,"[92, 41, 58, 30]",Visual,0
+971,Angela Collins,72,74,63,85,294,B,75,2,1,High School,High,"[74, 88, 49, 61]",Visual,1
+972,Craig Holland,77,90,54,77,298,B,93,2,0,High School,High,"[59, 86, 43, 90]",Kinesthetic,1
+973,Jeff Malone,67,89,54,80,290,B,94,3,0,Master,Low,"[95, 52, 58, 32]",Visual,0
+974,Crystal Baker,73,79,68,85,305,B,92,4,1,Master,Low,"[52, 85, 37, 88]",Kinesthetic,0
+975,Richard Parker,73,58,27,58,216,C,73,1,1,Master,Middle,"[73, 71, 87, 56]",Visual,0
+976,Robert Butler,80,72,74,58,284,B,99,4,0,Bachelor,High,"[94, 59, 83, 89]",Kinesthetic,0
+977,Olivia Cameron,62,62,61,77,262,B,81,3,1,Master,Low,"[85, 42, 35, 62]",Visual,1
+978,Michael Guzman,65,91,62,79,297,B,75,4,1,Bachelor,High,"[48, 85, 70, 89]",Visual,1
+979,Justin Oneal,82,87,39,75,283,B,97,2,0,Bachelor,High,"[45, 76, 64, 48]",Kinesthetic,0
+980,James Smith,79,35,68,92,274,B,87,1,1,Master,Low,"[60, 39, 32, 32]",Kinesthetic,0
+981,Douglas Anderson,78,67,82,58,285,B,92,4,1,Doctorate,Low,"[91, 46, 77, 92]",Visual,0
+982,Justin Nelson,74,85,52,77,288,B,73,1,1,High School,High,"[51, 72, 31, 90]",Auditory,1
+983,Jose Berger,69,69,87,92,317,B,84,1,1,Bachelor,Middle,"[47, 65, 93, 66]",Visual,0
+984,Tiffany Sanchez,95,79,80,62,316,B,73,5,1,High School,Low,"[54, 86, 64, 61]",Visual,0
+985,Andrea Smith,77,68,52,90,287,B,74,4,1,Doctorate,High,"[74, 88, 49, 82]",Auditory,1
+986,Destiny Thomas,80,75,63,73,291,B,97,4,1,High School,Low,"[78, 36, 74, 82]",Auditory,1
+987,Jeffrey Murray,78,80,46,70,274,B,78,2,1,Master,High,"[63, 37, 48, 34]",Auditory,1
+988,Michelle Moore,73,80,47,74,274,B,91,1,1,Master,High,"[70, 37, 54, 35]",Visual,1
+989,Brenda Ramos,60,40,75,77,252,B,75,5,1,Doctorate,High,"[79, 55, 50, 55]",Auditory,0
+990,Lee Petersen,84,70,66,81,301,B,92,2,1,Master,Middle,"[40, 51, 54, 82]",Visual,0
+991,Victoria Walls,78,47,80,95,300,B,83,3,1,Bachelor,Low,"[64, 80, 53, 34]",Kinesthetic,0
+992,Brian Mcbride,84,57,68,82,291,B,71,3,1,High School,Low,"[94, 85, 61, 69]",Kinesthetic,1
+993,Leslie Hopkins,74,85,77,73,309,B,89,4,0,Bachelor,Low,"[56, 30, 68, 80]",Auditory,1
+994,Abigail Hall,95,93,95,94,377,A,94,3,0,Bachelor,Low,"[84, 66, 42, 31]",Kinesthetic,1
+995,Jason Jones,89,95,69,57,310,B,93,4,1,Master,Middle,"[42, 87, 78, 84]",Kinesthetic,0
+996,Donna Morrison,79,68,64,94,305,B,92,5,0,Bachelor,Low,"[30, 88, 37, 31]",Visual,0
+997,Melanie Wright,69,61,77,71,278,B,96,3,0,Master,Middle,"[32, 34, 46, 72]",Auditory,1
+998,Charles Daugherty,75,60,50,95,280,B,98,1,1,High School,High,"[59, 71, 75, 64]",Visual,0
+999,Mercedes Hughes,82,54,64,63,263,B,73,3,1,Bachelor,Middle,"[71, 91, 88, 42]",Kinesthetic,1
+1000,John Carlson,91,72,55,70,288,B,99,3,1,Doctorate,High,"[56, 55, 68, 77]",Visual,0
+1001,Jessica Johnson,86,57,72,66,281,B,80,5,1,Doctorate,Low,"[42, 60, 53, 80]",Visual,1
+1002,Stephen Keith,90,80,35,70,275,B,97,1,1,Master,High,"[35, 82, 50, 86]",Auditory,1
+1003,Dawn Ruiz,75,71,54,66,266,B,78,2,0,Master,Middle,"[44, 82, 50, 74]",Visual,0
+1004,Jennifer Santos,85,53,54,84,276,B,86,1,1,Master,Low,"[43, 36, 90, 89]",Visual,1
+1005,Tiffany Scott,74,88,54,62,278,B,91,4,1,Master,Low,"[94, 78, 39, 44]",Visual,0
+1006,Kristine Wiley,77,57,42,77,253,B,97,5,0,Master,High,"[33, 39, 55, 72]",Kinesthetic,1
+1007,Charles Smith,76,63,74,65,278,B,80,5,0,Doctorate,Middle,"[90, 61, 71, 36]",Visual,0
+1008,James Reynolds,75,95,74,91,335,A,77,5,1,Doctorate,Low,"[94, 69, 66, 63]",Kinesthetic,0
+1009,Kelly Perez,80,95,83,72,330,A,72,3,0,Bachelor,Low,"[58, 81, 57, 84]",Visual,0
+1010,Maria Farmer,79,40,70,61,250,B,71,5,1,Bachelor,Middle,"[92, 60, 41, 90]",Visual,0
+1011,Andres Barker,77,35,62,85,259,B,70,5,1,High School,Low,"[42, 76, 91, 47]",Auditory,1
+1012,Monica Hansen MD,95,72,83,66,316,B,71,2,1,High School,Middle,"[93, 41, 94, 92]",Visual,1
+1013,Robert Gonzales,90,88,57,80,315,B,92,1,0,Doctorate,High,"[64, 90, 50, 39]",Visual,1
+1014,Kenneth Wells,72,80,60,60,272,B,92,3,1,Bachelor,High,"[50, 79, 70, 55]",Auditory,0
+1015,Laura Carr,71,62,58,78,269,B,86,4,1,High School,Low,"[34, 41, 34, 42]",Kinesthetic,0
+1016,Ann Russell,76,68,89,59,292,B,95,1,1,Doctorate,Middle,"[51, 65, 70, 68]",Kinesthetic,1
+1017,Kevin Aguilar,91,70,95,69,325,A,86,5,1,Master,Middle,"[85, 33, 43, 38]",Kinesthetic,1
+1018,Anthony Goodman,72,71,63,85,291,B,83,4,0,Bachelor,Low,"[39, 51, 32, 73]",Visual,1
+1019,Lisa Phillips,73,44,63,77,257,B,93,5,1,Doctorate,Middle,"[63, 48, 32, 89]",Kinesthetic,1
+1020,Gina Solomon DDS,85,63,45,73,266,B,81,4,0,Doctorate,High,"[92, 72, 69, 92]",Visual,1
+1021,Katherine Taylor,69,69,70,65,273,B,72,5,0,Master,High,"[47, 86, 83, 75]",Visual,1
+1022,Sarah Weber,76,61,95,66,298,B,93,3,0,Bachelor,Middle,"[89, 92, 34, 61]",Auditory,1
+1023,Patricia Reed,89,64,79,75,307,B,90,3,1,Master,High,"[38, 88, 87, 76]",Kinesthetic,1
+1024,Marcia Hamilton,78,85,39,64,266,B,88,2,0,Bachelor,High,"[83, 44, 76, 63]",Visual,0
+1025,Jennifer Jones,81,86,71,76,314,B,90,4,1,Bachelor,Middle,"[30, 40, 39, 49]",Visual,1
+1026,Joshua Duncan,76,91,69,57,293,B,89,3,0,Master,Low,"[32, 64, 65, 82]",Auditory,0
+1027,Kristen Mason,87,52,83,95,317,B,86,4,0,High School,Low,"[81, 54, 40, 89]",Auditory,0
+1028,Amanda Jones,84,53,44,76,257,B,71,2,1,Bachelor,Middle,"[37, 91, 93, 94]",Visual,0
+1029,Terri Shepherd,86,59,14,76,235,C,75,4,1,Doctorate,High,"[36, 52, 81, 36]",Kinesthetic,1
+1030,Allen Guerra,68,82,53,78,281,B,93,4,0,Doctorate,High,"[54, 88, 56, 59]",Visual,1
+1031,Amanda Ortega,70,76,52,89,287,B,93,5,0,Bachelor,Middle,"[85, 57, 63, 80]",Auditory,0
+1032,Manuel Conrad,66,88,72,92,318,B,84,4,1,High School,High,"[75, 61, 32, 49]",Auditory,1
+1033,Lori Ellis,87,79,69,81,316,B,77,4,1,Master,Low,"[74, 43, 78, 45]",Kinesthetic,1
+1034,Chad Gilbert,79,80,32,69,260,B,100,3,1,High School,Middle,"[94, 30, 32, 91]",Auditory,1
+1035,Hunter Riley,81,55,46,79,261,B,80,1,0,Doctorate,Middle,"[71, 78, 61, 50]",Auditory,0
+1036,Ann Mora,95,79,62,84,320,A,80,1,1,Master,High,"[63, 34, 38, 82]",Auditory,0
+1037,Donna Taylor,80,95,71,55,301,B,93,1,1,Bachelor,High,"[36, 52, 42, 41]",Auditory,1
+1038,Sandra Gallagher,79,67,83,86,315,B,88,4,1,High School,High,"[68, 70, 89, 42]",Kinesthetic,0
+1039,Jennifer Griffin,77,88,26,92,283,B,93,4,0,Bachelor,Middle,"[47, 41, 31, 67]",Kinesthetic,1
+1040,Ryan Bennett,77,51,63,56,247,B,80,3,1,Master,Low,"[55, 89, 31, 31]",Kinesthetic,0
+1041,Nicholas Anderson,64,64,67,74,269,B,82,2,1,Doctorate,High,"[69, 45, 93, 44]",Kinesthetic,0
+1042,Antonio Shepherd,93,67,67,67,294,B,81,4,0,Master,Middle,"[46, 36, 71, 58]",Auditory,0
+1043,Troy Joseph,67,75,89,87,318,B,76,1,0,High School,Low,"[92, 93, 82, 67]",Auditory,0
+1044,Ann Brown,91,51,76,78,296,B,86,3,0,Master,Low,"[53, 79, 92, 54]",Visual,1
+1045,Carolyn Lopez,92,63,95,53,303,B,80,5,0,Master,Middle,"[36, 86, 66, 43]",Visual,1
+1046,Robert Johnson,81,76,47,87,291,B,97,3,1,Doctorate,High,"[87, 58, 81, 43]",Auditory,1
+1047,Donna Thomas,80,66,76,77,299,B,76,5,1,Bachelor,Middle,"[91, 40, 88, 87]",Visual,0
+1048,Jonathon Crosby,70,66,81,93,310,B,94,2,0,Doctorate,Middle,"[65, 81, 46, 76]",Kinesthetic,0
+1049,John Johnson,73,77,57,35,242,B,89,2,0,Master,High,"[36, 67, 45, 37]",Kinesthetic,0
+1050,Brandi Walker,87,49,31,71,238,C,79,2,0,Bachelor,High,"[51, 89, 88, 38]",Auditory,0
+1051,George Henderson,83,77,88,84,332,A,96,3,1,High School,High,"[62, 39, 32, 76]",Auditory,1
+1052,Matthew Patterson,87,77,76,95,335,A,77,2,1,High School,Low,"[91, 31, 39, 61]",Visual,0
+1053,Gregory Juarez,78,76,78,56,288,B,74,1,1,High School,Middle,"[57, 76, 54, 54]",Kinesthetic,1
+1054,Michael Horton,88,39,83,68,278,B,84,3,1,Doctorate,High,"[36, 80, 38, 46]",Visual,1
+1055,Denise Stein,75,87,44,89,295,B,71,3,1,Bachelor,Middle,"[50, 69, 67, 38]",Visual,0
+1056,Rachel Townsend,78,55,47,62,242,B,98,3,0,High School,Low,"[49, 89, 74, 56]",Visual,1
+1057,Megan Lawrence,87,72,60,77,296,B,77,4,1,Master,Low,"[45, 65, 50, 40]",Kinesthetic,1
+1058,Richard Francis,63,62,75,89,289,B,82,1,0,Doctorate,Low,"[67, 66, 80, 95]",Kinesthetic,0
+1059,Robert Gomez,89,65,55,73,282,B,70,5,0,Doctorate,Low,"[71, 80, 42, 77]",Auditory,0
+1060,Susan Robertson,93,52,47,94,286,B,70,3,0,High School,High,"[60, 67, 45, 82]",Visual,1
+1061,Lori Walter,93,78,79,78,328,A,96,1,1,Bachelor,Low,"[86, 60, 93, 37]",Kinesthetic,0
+1062,David Ryan,56,71,89,88,304,B,100,5,1,Bachelor,High,"[86, 57, 86, 75]",Visual,0
+1063,Mark Stone,80,83,83,78,324,A,90,1,0,Master,High,"[33, 58, 37, 79]",Auditory,1
+1064,Sandra Wade,74,64,72,63,273,B,78,3,0,Doctorate,High,"[41, 47, 87, 86]",Visual,1
+1065,Brett Harris,91,56,95,75,317,B,86,4,1,Bachelor,Low,"[93, 81, 49, 64]",Kinesthetic,1
+1066,Yvonne Bartlett,69,79,69,77,294,B,88,3,0,Doctorate,Middle,"[77, 82, 60, 65]",Kinesthetic,0
+1067,Kayla Williams,73,63,46,70,252,B,93,2,0,Master,High,"[69, 44, 66, 72]",Kinesthetic,0
+1068,Christine Luna,74,80,61,88,303,B,99,5,1,Master,Low,"[93, 66, 65, 87]",Auditory,1
+1069,Connie Wells,87,60,73,65,285,B,95,2,1,Master,High,"[76, 39, 84, 74]",Visual,0
+1070,Veronica Norton,74,63,77,75,289,B,70,2,1,Bachelor,Middle,"[38, 39, 68, 49]",Kinesthetic,1
+1071,Jessica Rodriguez,75,73,52,73,273,B,94,3,1,Bachelor,Low,"[90, 88, 89, 75]",Kinesthetic,0
+1072,Hannah Cabrera,93,59,45,60,257,B,99,1,0,High School,High,"[93, 89, 60, 92]",Visual,1
+1073,Rachel Graham,89,73,89,78,329,A,72,3,0,Master,Low,"[40, 30, 32, 52]",Auditory,1
+1074,Alexandra James,74,66,37,71,248,B,95,5,1,Bachelor,High,"[61, 72, 92, 46]",Kinesthetic,0
+1075,Melissa Fitzgerald,75,59,44,75,253,B,76,5,0,High School,Low,"[60, 46, 30, 61]",Kinesthetic,1
+1076,Anthony Stevens,83,61,53,76,273,B,100,1,1,Doctorate,High,"[94, 35, 34, 63]",Visual,1
+1077,Karen Olson,56,76,70,71,273,B,90,2,1,Bachelor,Middle,"[34, 82, 36, 80]",Visual,0
+1078,Christine Murray,86,44,87,68,285,B,100,5,0,Doctorate,Middle,"[66, 71, 40, 70]",Visual,1
+1079,Andrew Smith,83,69,60,70,282,B,76,4,1,Master,Middle,"[89, 84, 75, 45]",Auditory,0
+1080,Patricia Potts,68,67,23,76,234,C,75,5,0,Master,Middle,"[87, 53, 88, 77]",Auditory,1
+1081,Amanda Tanner,78,54,95,81,308,B,94,2,1,High School,Middle,"[62, 55, 92, 60]",Auditory,1
+1082,Stephanie Aguilar,77,75,95,70,317,B,81,1,0,High School,Low,"[38, 54, 33, 78]",Auditory,0
+1083,Danielle Neal,82,66,34,62,244,B,97,3,0,High School,Middle,"[58, 93, 58, 35]",Kinesthetic,0
+1084,Margaret Smith,74,67,58,64,263,B,71,3,0,Bachelor,High,"[59, 43, 39, 46]",Auditory,0
+1085,James Meyer,94,63,81,80,318,B,81,4,0,Master,Middle,"[43, 50, 35, 80]",Auditory,1
+1086,Alicia Stevens,81,70,56,89,296,B,74,3,1,Master,Middle,"[63, 38, 86, 35]",Visual,0
+1087,Douglas Oconnor,80,61,74,87,302,B,86,4,1,High School,Low,"[81, 80, 39, 55]",Kinesthetic,0
+1088,Kristen Johnson,95,59,59,76,289,B,97,4,1,High School,Low,"[64, 88, 68, 68]",Auditory,1
+1089,Patricia Williams,72,63,55,86,276,B,83,2,0,Master,High,"[43, 61, 40, 42]",Visual,0
+1090,Jerry Lucas,76,68,73,84,301,B,85,3,1,Doctorate,Low,"[76, 50, 50, 74]",Visual,0
+1091,Nicole Nguyen,83,68,67,79,297,B,100,5,1,Bachelor,High,"[57, 37, 87, 71]",Kinesthetic,0
+1092,David Johnson,92,83,72,87,334,A,100,2,0,High School,Middle,"[47, 88, 46, 37]",Auditory,1
+1093,Holly Thompson,90,95,80,75,340,A,74,3,1,Doctorate,Middle,"[81, 37, 94, 52]",Kinesthetic,0
+1094,Jonathan Williams,72,95,15,73,255,B,95,4,0,Master,Middle,"[34, 30, 41, 62]",Visual,0
+1095,Edwin Sanchez,84,90,42,87,303,B,84,1,1,Master,Middle,"[66, 64, 70, 61]",Auditory,1
+1096,Sarah Mccullough,82,69,90,57,298,B,81,1,0,High School,Middle,"[86, 67, 47, 78]",Visual,1
+1097,Troy Gutierrez,61,75,84,76,296,B,85,1,1,Doctorate,Low,"[59, 68, 38, 71]",Kinesthetic,0
+1098,Natalie Castillo,74,69,88,91,322,A,94,5,1,Bachelor,High,"[72, 67, 57, 38]",Visual,0
+1099,Becky Morris,93,72,86,59,310,B,90,2,0,Doctorate,Low,"[36, 47, 71, 58]",Auditory,0
